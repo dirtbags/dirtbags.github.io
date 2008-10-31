@@ -1,0 +1,20 @@
+[[!meta title="Grok Screen Shots]]
+
+This is what you see when you first load Grok:
+
+[[!img grok1.png size="500x500" alt="screen shot"]]
+
+A query for destination IP 209.131.36.158 (www.yahoo.com):
+
+[[!img grok2.png size="500x500" alt="screen shot"]]
+
+You can drill down one level further with output in any of the following
+formats:
+
+* decodeip (RFC-style)
+* tcpdump
+* bag (bag internal records)
+* snort
+* payload (resequenced TCP payload)
+* pcap (raw pcap file for wireshark & friends)
+

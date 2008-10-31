@@ -1,0 +1,48 @@
+== About Us ==
+
+dirtbags.net was started as a place to release some projects we
+had created in the never-ending arms race that is network security.
+People beyond the developers have expressed interest in some of these
+projects, and now they can be shared and discovered anew the world over.
+
+
+Founding Members
+================
+
+
+Brughdiggity (Alexander Brugh)
+------------------------------
+
+Alex is an accomplished complainer.  He's also the only one of us who
+ever takes notes, which means he's usually the only one who has any idea
+what the crap is going on.
+
+
+Core Net (C. Philip Wood)
+-------------------------
+
+Phil Wood, alias cpw, wrote grok and bag.  He has contributed to such
+perennial Unix favorites as traceroute, libpcap, and snort.  He has been
+accused of writing 'the entire Internet,' but he firmly denies this.
+
+
+Fish (Michael Fisk)
+-------------------
+
+He's not the guy from the movie "Contact", but we suspect they based the
+character on Fish.
+
+
+zephyr (Neale Pickett)
+----------------------
+
+Neale wrote py-pcap and some other junk.  His never-ending quest to
+reimplement existing software for marginal gains eventually drove him to
+working with these dirtbags.
+
+
+About the name
+==============
+
+"Dirtbag" is the term Phil uses for pretty much anybody he has to spend
+time investigating.
