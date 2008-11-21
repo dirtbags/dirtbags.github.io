@@ -1,4 +1,4 @@
-== About Us ==
+[[!meta title="About the Dirtbags"]]
 
 dirtbags.net was started as a place to release some projects we
 had created in the never-ending arms race that is network security.
@@ -41,8 +41,9 @@ reimplement existing software for marginal gains eventually drove him to
 working with these dirtbags.
 
 
-About the name
-==============
+Our name
+========
 
 "Dirtbag" is the term Phil uses for pretty much anybody he has to spend
-time investigating.
+time investigating.  It's kinda catchy, and the domain name was available,
+so what the hey.

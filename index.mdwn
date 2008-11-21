@@ -1,4 +1,4 @@
-[[!img science.jpg caption="A dirtbag making science." alt="Klakto"]]
+[[!img images/science.jpg caption="A dirtbag making science." size="200x200" alt="Klakto"]]
 
 We write tools to help people go after dirtbags on the Internet.  Or be
 a dirtbag, if that's your cup of tea.  I mean, somebody has to keep us

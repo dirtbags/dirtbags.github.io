@@ -1,0 +1,204 @@
+/* Author: Neale Pickett, based on work by Will Rossiter */
+
+/***Misc Tags***/
+
+html {
+  background: #222 url(/images/grunge.png) no-repeat;
+}
+
+body {
+  font-family: sans-serif;
+  color: #fff;
+  margin: 30px 0 0 0;
+  padding: 10px;
+}
+
+a img {
+  border: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  background: #333;
+  font-size: 0.7em;
+  padding: 3px;
+  color: #f4f4f4;
+  border: 2px solid #555;
+}
+
+button {
+  background: #222;
+  font-size: 0.7em;
+  padding: 2px;
+  color: #f4f4f4;
+  border: 2px solid #444;
+  height: 2em;
+}
+
+
+/**** Span classes *****/
+
+.hidden {
+  text-indent: -9000px;
+}
+.color {
+  color: #2a2;
+}
+.small {
+  font-size: x-small;
+}
+.large {
+  font-size: xx-large;
+}
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+/***Header***/
+
+
+#head h1 {
+  position: fixed;
+  left: 180px;
+  top: 45px;
+  font-size: 1.6em;
+  letter-spacing: -0.1em;
+  background-color: #222;
+  padding: 3px;
+  opacity: 0.9;
+}
+
+#search {
+  margin-top: 30px;
+  float: right;
+}
+
+#search button {
+  margin-left: 5px;
+  padding: 0 2px 2px 2px;
+}
+
+/***left Side Bar***/
+
+#navigation {
+  position: fixed;
+  background: #222;
+  opacity: 0.9;
+  top: 80px;
+  left: 10px;
+  padding: 0;
+}
+
+#navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#navigation li a {
+  display: block;
+  height: 25px;
+  width: 100px;
+  padding: 5px;
+  margin: 5px;
+  background: inherit;
+  border-right: 4px solid #444;
+  color: #999;
+  text-transform: lowercase;
+  font-size: 0.9em;
+}
+
+#navigation li a:hover {
+  color: #f4f4f4;
+  background: #333;
+  border-right: 4px solid #2a2;
+}
+
+#navigation li .active {
+  color: #999;
+  background: #333;
+  border-right: 4px solid #444;
+}
+
+
+/***Body***/
+
+#body {
+  background: #222;
+  margin-left: 140px;
+  margin-top: 70px;
+  max-width: 700px;
+}
+
+#body a {
+  color: #2a2;
+  font-weight: bold;
+}
+
+#body a:hover {
+  color: #fff;
+  background: #2a2;
+  font-weight: bold;
+}
+
+#body p {
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #f4f4f4;
+}
+
+#body h1, h2, h3 {
+  color: #999;
+  letter-spacing: -0.05em;
+  margin-bottom: 4px;
+}
+
+#body code, pre {
+  color: #fff;
+  background-color: #333;
+}
+
+#body blockquote {
+  color: #999;
+  font-style: italic;
+  text-align: center;
+  width: 300px;
+  margin: 10px auto;
+}
+
+#body table.img {
+  float: right;
+  padding: 3px;
+  font-size: small;
+  text-align: center;
+}
+#body table.img img {
+  border: solid #2a2 1px;
+}
+#body table.img caption {
+  caption-side: bottom;
+}
+
+/***Footer***/
+
+address {
+  clear: both;
+  color: #666;
+  font-size: 0.7em;
+}
+
+address a:hover {
+  color: #f4f4f4;
+}

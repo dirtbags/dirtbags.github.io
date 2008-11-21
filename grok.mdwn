@@ -7,7 +7,7 @@ session summary tool called `bag`.
 
 The `bag` program runs on a Linux system, and continuously generates
 5-minute full packet capture `libpcap` files, Internet session summary
-files, and interface statistic files, rount-robin, over a period limited
+files, and interface statistic files, round-robin, over a period limited
 to the amount of disc storage available to the system.  In the LANL
 case, an 8-terabyte file system accomodates seven days of data (most of
 the time).
@@ -17,9 +17,29 @@ services (such as www/tcp or 161/udp), along with network interface
 statistics which indicated the health of the capture system, are plotted
 every 5 minutes for display by the Grok web server.
 
-The Grok home page presents the analyst with a set of search criteria
-used to query the information being collected by the bag program.  Since
-the information ultimately resides in `pcap` files, other `pcap` aware
-programs, such as `bro`, `wireshark`, `nosehair`, `smacqq`, `snort`, and
-`tcpdump` have been incorporated into Grok's web interface.  Clickable
-documentation is avaliable for each search criteria.
+The Grok web interface presents the analyst with a set of search
+criteria used to query the information being collected by the bag
+program.  Since the information ultimately resides in `pcap` files,
+other `pcap` aware programs, such as `bro`, `wireshark`, `nosehair`,
+`smacqq`, `snort`, and `tcpdump` have been incorporated into Grok's web
+interface.  Clickable documentation is avaliable for each search
+criteria.
+
+
+Downloading
+-----------
+
+We are still working on making a nice package for grok; in the meantime,
+here's what we have.
+
+The current HEAD in git is probably the best place to start.  You may
+[browse the code](/gitweb.cgi) online, or clone the tree:
+
+    $ git clone http://dirtbags.net/projects/grok
+    $ git clone http://dirtbags.net/projects/bag
+
+Tarballs of the latest official release (December 2007) are also here,
+but are by now pretty out of date.
+
+* [grok 1.3](grok-1.3-src.1210096506.tar.gz)
+* [bag 1.3](bag-1.3.20071203.tar.gz)
