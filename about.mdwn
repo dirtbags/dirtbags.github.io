@@ -23,7 +23,7 @@ Core Net (C. Philip Wood)
 
 Phil Wood, alias cpw, wrote grok and bag.  He has contributed to such
 perennial Unix favorites as traceroute, libpcap, and snort.  He has been
-accused of writing 'the entire Internet,' but he firmly denies this.
+accused of writing "the entire Internet", but he firmly denies this.
 
 
 Fish (Michael Fisk)

@@ -70,7 +70,7 @@ button {
 
 
 #head h1 {
-  position: fixed;
+  position: absolute;
   left: 180px;
   top: 45px;
   font-size: 1.6em;
