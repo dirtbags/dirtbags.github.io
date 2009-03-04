@@ -20,7 +20,7 @@ every 5 minutes for display by the Grok web server.
 The Grok web interface presents the analyst with a set of search
 criteria used to query the information being collected by the bag
 program.  Since the information ultimately resides in `pcap` files,
-other `pcap` aware programs, such as `bro`, `wireshark`, `nosehair`,
+other `pcap` aware programs, such as `bro`, `wireshark`, 
 `smacqq`, `snort`, and `tcpdump` have been incorporated into Grok's web
 interface.  Clickable documentation is avaliable for each search
 criteria.
