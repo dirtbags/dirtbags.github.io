@@ -1,7 +1,9 @@
 [[!meta title="About the Dirtbags"]]
 
-* BirdZerk!
-* CoreNet
+* Birdzerk
+* Core Net
+* mass
+* meatshield
 * pflarr
 * slick
 * zephyr
