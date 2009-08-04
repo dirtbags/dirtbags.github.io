@@ -4,5 +4,4 @@ We write tools to help people go after dirtbags on the Internet.  Or be
 a dirtbag, if that's your cup of tea.  I mean, somebody has to keep us
 employed.
 
-* [[Grok]], a tool for *mondo*-scale packet capture
 * [[Python_pcapfile_library|py-pcap]]

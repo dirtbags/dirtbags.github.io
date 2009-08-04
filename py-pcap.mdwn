@@ -28,4 +28,4 @@ Version 1.0 is available at
 for Python 2.6.2 can be downloaded from
 <http://dirtbags.net/py-pcap/pcap-1.0.win32-py2.6.exe>.
 
-Neale Pickett <neale@dirtbags.net>
+<zephyr@dirtbags.net>
