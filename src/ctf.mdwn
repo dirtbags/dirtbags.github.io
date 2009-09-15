@@ -38,7 +38,7 @@ by **October 13, 2009**.
 A team should generally consist of no more than 6 individuals; however,
 larger teams can be accomodated (see note below).
 
-To register your team, send an e-mail to *neale@woozle.org* containing:
+To register your team, send an e-mail to <ctf@dirtbags.net> containing:
 
 -	your name and contact information,
 -	your team's name,
@@ -52,13 +52,14 @@ will be expected to fit in a space designed for 6 people.
 What to Bring
 =============
 
-The event organizers will provide a space in which to work, an 8-port switch,
-a power strip, and a QNAP TS-239 box.
+The event organizers will provide a space in which to work, an 8-port
+switch (with 6 free ports), a power strip, and a QNAP TS-239 box.
 
-Each team is expected to provide any laptops, desktops (remember that there is
-limited space), network cables, storage devices, and additional networking
-equipment they need in order to work. An 8-port switch is provided to each team
-as a courtesy, but need not be used.  Contestants are encouraged to reconfigure 
-the network topology in their team area, adding more switches, firewalls, or 
-whatever else they desire.
+Each team is expected to provide any laptops, desktops (remember that
+there is limited space), network cables, storage devices, and additional
+networking equipment they need in order to work. An 8-port switch (with
+6 free ports) is provided to each team as a courtesy, but need not be
+used.  Contestants are encouraged to reconfigure the network topology in
+their team area, adding more switches, firewalls, or whatever else they
+desire.
 
