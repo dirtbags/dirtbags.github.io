@@ -1,9 +1,9 @@
-[[!meta title="Capture the flag"]]
+[[!meta title="Capture the flag information"]]
 
-<table>
-	<tr><td>What:</td><td>Capture The Flag</td></tr>
+<table style="width: 100%;">
+	<tr><td style="width: 40%;">What:</td><td>Capture The Flag</td></tr>
 	<tr><td>Where:</td><td>New Mexico Tech (specific location TBA)</td></tr>
-	<tr><td>When:</td><td>October 16 &amp; 17</td></tr>
+	<tr><td>When:</td><td>October 16 &amp; 17, 10am to 10pm</td></tr>
 </table>
 
 About
@@ -27,7 +27,7 @@ Science Department in October 2009.
 
 The contests and puzzles in the event are designed to be fun and challenging
 for newbies and cyber security professionals alike, so don't worry if you 
-aren't a 1337 h4xx0r. Register a team and come have some fun.
+aren't a *1337 h4xx0r*. Register a team and come have some fun.
 
 Registration
 ============
