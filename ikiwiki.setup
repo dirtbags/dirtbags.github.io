@@ -1,0 +1,65 @@
+#!/usr/bin/perl
+# Configuration file for ikiwiki.
+# Passing this to ikiwiki --setup will make ikiwiki generate wrappers and 
+# build the wiki.
+#
+# Remember to re-run ikiwiki --setup any time you edit this file.
+
+use CGI;
+
+use IkiWiki::Setup::Standard {
+    wikiname => "Home",
+    adminuser => ["neale", ],
+    adminemail => 'root@dirtbags.net',
+    
+    # Be sure to customise these..
+    wikistatedir => "/srv/dirtbags/work/state",
+    templatedir => "/srv/dirtbags/work/templates",
+    underlaydir => "/srv/dirtbags/work/base",
+    srcdir => "/srv/dirtbags/work/src",
+    destdir => "/srv/www/dirtbags.net",
+    
+    url => "http://dirtbags.org",
+    cgiurl => "https://dirtbags.net/ikiwiki.cgi",
+    
+    # Git stuff.
+    rcs => "git",
+    gitorigin_branch => "",
+    #historyurl => "http://git.host/gitweb.cgi?p=wiki.git;a=history;f=[[file]]",
+    #diffurl => "http://git.host/gitweb.cgi?p=wiki.git;a=blobdiff;h=[[sha1_to]];hp=[[sha1_from]];hb=[[sha1_parent]];f=[[file]]",
+
+    wrappers => [
+                 {
+                     # The cgi wrapper.
+                     cgi => 1,
+                     wrapper => "/srv/www/dirtbags.org/ikiwiki.cgi",
+                     wrappermode => "0755",
+                 },
+                 #{
+                 #	# The git post-update wrapper.
+                 #	# Note that this will overwrite any existing
+                 #	# post-update hook script, which may not be
+                 #	# what you want.
+                 #	wrapper => "/git/wikirepo/.git/hooks/post-update",
+                 #	wrappermode => "04755",
+                 #	# Enable mail notifications of commits.
+                 #	notify => 1,
+                 #},
+                 ],
+    
+    rss => 1,
+    atom => 1,
+    refresh => 1,
+    # Include discussion links on all pages?
+    discussion => 0,
+    verbose => 1,
+    syslog => 0,
+    userdir => "people",
+
+    locked_pages => "* and !*/Discussion",
+
+    add_plugins => [qw{wticket
+                           attachment lockedit pagetemplate
+                           goodstuff}],
+    disable_plugins => [qw{passwordauth openid smiley shortcut}],
+}
