@@ -66,7 +66,7 @@ desire.
 **Warning:** The competition network is considered hostile; attacking the
 machines of other participants is allowed within the contest rules. **If 
 you bring a personal laptop or desktop, it may get hacked. Be prepared.** Malicious
-attacks (i.e., stealing personal or sensitive information or causing permanent
+attacks (e.g., stealing personal or sensitive information, causing permanent
 damage) will be discouraged, but accidents happen and neither the event 
 organizers nor New Mexico Tech will take responsibility for what happens
 to your machine on the contest network.
