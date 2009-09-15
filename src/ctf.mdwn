@@ -44,7 +44,7 @@ To register your team, send an e-mail to <ctf@dirtbags.net> containing:
 -	your team's name,
 -	and the number of people on the team (including yourself).
 
-Note: Teams with more than 6 members must provide any additional equipment
+**Note:** Teams with more than 6 members must provide any additional equipment
 necessary to support the extra people (e.g., switches, CAT-5 cables, power
 strips). Large teams must also be prepared for the possibility that they
 will be expected to fit in a space designed for 6 people.
@@ -62,4 +62,12 @@ networking equipment they need in order to work. An 8-port switch (with
 used.  Contestants are encouraged to reconfigure the network topology in
 their team area, adding more switches, firewalls, or whatever else they
 desire.
+
+**Warning:** The competition network is considered hostile; attacking the
+machines of other participants is allowed within the contest rules. **If 
+you bring a personal laptop or desktop, it may get hacked. Be prepared.** Malicious
+attacks (i.e., stealing personal or sensitive information or causing permanent
+damage) will be discouraged, but accidents happen and neither the event 
+organizers nor New Mexico Tech will take responsibility for what happens
+to your machine on the contest network.
 
