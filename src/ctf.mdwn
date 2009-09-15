@@ -1,10 +1,8 @@
 [[!meta title="Capture the flag information"]]
 
-<table style="width: 100%;">
-	<tr><td style="width: 40%;">What:</td><td>Capture The Flag</td></tr>
-	<tr><td>Where:</td><td>New Mexico Tech (specific location TBA)</td></tr>
-	<tr><td>When:</td><td>October 16 &amp; 17, 10am to 10pm</td></tr>
-</table>
+*What:* Capture The Flag (CTF) competition  
+*Where:* New Mexico Tech (specific location TBA)  
+*When:* October 16 &amp; 17, 10am to 10pm
 
 About
 =====
