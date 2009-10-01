@@ -1,7 +1,7 @@
 [[!meta title="Capture the flag information"]]
 
 *What:* Capture The Flag (CTF) competition  
-*Where:* New Mexico Tech (specific location TBA)  
+*Where:* New Mexico Tech, Cramer 213
 *When:* October 16 &amp; 17, 10am to 10pm
 
 About
