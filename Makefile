@@ -1,4 +1,4 @@
-DESTDIR = $(HOME)/public_html
+DESTDIR = /srv/www/dirtbags.net
 
 TEMPLATE = template.html.m4
 MDWNTOHTML = ./mdwntohtml $(TEMPLATE)
@@ -8,7 +8,8 @@ HTML = index.html
 
 # Things to copy
 COPY += grunge.png icon.png
-COPY += dirtbags.css gitweb.css
+COPY += dirtbags.css
+COPY += gitweb.cgi gitweb.css gitweb.conf gitweb.header.xml
 
 # Images to scale
 IMAGES += science-sm.jpg
