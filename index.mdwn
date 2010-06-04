@@ -1,0 +1,14 @@
+Title: Home
+
+<div class="figure">
+  <img src="science-sm.jpg" alt="Klakto">
+  <br/>
+  A dirtbag making science.
+</div>
+
+We write tools to help people go after dirtbags on the Internet.  Or be
+a dirtbag, if that's your cup of tea.  I mean, somebody has to keep us
+employed.
+
+* [Python pcapfile library](py-pcap.html)
+
