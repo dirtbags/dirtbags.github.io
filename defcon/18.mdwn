@@ -1,0 +1,67 @@
+Title: Dirtbags@DC18
+
+The Dirtbus
+-----------
+
+In an effort to make it affordable, we're trying to recruit people for a
+vanpool and room sharing.  We can rent a 7-passenger mini-van for $424,
+figure $200 for gas.  Rooms at nearby hotels are around $50 per night,
+double-occupancy.  Def Con registration is $140.  If we put 3 people per
+room, we've got:
+
+     140     Registration
+      50     Lodging
+      29     Gas
+      61     Van
+    + 40     Groceries
+    ------------------------
+    $320     Cost per person
+
+This is assuming a full fan (7 people).
+
+The plan is to leave on Thursday morning, and try to cover the 670-mile
+drive with as few stops as possible.  BirdZerk, who's going to Black Hat,
+will buy badges for anyone who gives him cash in advance, so when we arrive
+we can get our rooms and crash (or party).
+
+Let me <zephyr@dirtbags.net> know if you'd like in on this.
+
+
+Open Capture The Flag
+---------------------
+
+We will participate in Open Capture The Flag again this year.  We need
+people in the following roles:
+
+* Gofer: gofer drinks, gofer food, gofer equipment, gofer schwag, etc.
+* Dedicated h4x0r: plan to be working with us most of the event
+* Casual h4x0r: drop by and help out when you're otherwise unoccupied
+* Home audience: VPN in, hop on IRC, and assist when you can, or just cheer us on
+* Cheerleader: swing by occasionally and chat with us, so we remember to take breaks
+
+We also need people to help out beforehand by designing and ordering
+dirtbags stickers (zephyr will foot the bill).
+
+Please get in touch with me <zephyr@dirtbags.net> if you're interested.
+
+
+So far we have:
+
+* zephyr: dedicated
+* slackish: dedicated
+* chash: casual
+* BirdZerk: casual
+
+
+
+Portable Tanks
+--------------
+
+We've optimized pflarr's tanks game to the point that we can run a
+12-tank game on an Asus WL-520GU router!  Since the thing is so low
+power, we can run it off of a lantern battery, although we may choose to
+just plug it in. We'll be handing out business cards with the ESSID and
+WPA2 key, so that people can hop on and play tanks at the Con.
+
+If you want to play tanks, be sure to hit us up for a card early on,
+since we're only bringing a couple dozen.
