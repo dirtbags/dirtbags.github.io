@@ -49,9 +49,11 @@ So far we have:
 
 * zephyr: dedicated
 * slackish: dedicated
+* pflarr: dedicated
 * chash: casual
 * BirdZerk: casual
-
+* darkcipher: casual
+* cashmoney: casual
 
 
 Portable Tanks
