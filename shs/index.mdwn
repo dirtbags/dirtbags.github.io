@@ -11,16 +11,6 @@ know how to attack.  In summer hacking school, you'll learn about all
 aspects of computer security, from the obvious: math and programming; to
 the subtle: sociology and law.
 
-It's my hope that at the end of this class, you'll be better informed to
-make decisions about technology, and be able to engage in reasoned
-arguments about issues like:
-
-* Trust relationships
-* Privacy in a surveillance society
-* Security theater
-* Consumer protection laws
-
-
 June 9: Social Engineering
 --------------------------
 
@@ -37,12 +27,14 @@ We'll also start working on the final project: tricking our volunteers
 (your friends and family) into doing something they shouldn't do on
 their computers.
 
+[More about this class](soceng.html)
+
 
 June 16: Being Sneaky
 ------------------------
 
 We will talk about what your ISP can see, what they can't see, and how
-you be in charge of deciding this.  We'll learn about the difference
+you can be in charge of deciding this.  We'll learn about the difference
 between authentication, encryption, and anonymity.  We'll discuss
 steganography (hiding information, like the Trojan Horse), and we'll
 discuss the benefits to society as well as the costs to society of these
@@ -50,6 +42,8 @@ techniques.
 
 Lastly, you will create a PGP key pair, and sign everybody else's, so we
 can use public channels to exchange secret messages with each other.
+
+[More about this class](sneaky.html)
 
 
 June 23: Hacking the Web
