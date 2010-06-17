@@ -11,6 +11,18 @@ know how to attack.  In summer hacking school, you'll learn about all
 aspects of computer security, from the obvious: math and programming; to
 the subtle: sociology and law.
 
+These aren't lectures, they're interactive discussions where we talk
+about the things that interest *you*.  I only come prepared with a brief
+outline. Some classes have parts where you can use your laptop to try
+things out; if you don't have a laptop, don't worry, you can pair up
+with someone else.
+
+The textbook for this discussion series is [Little
+Brother](http://craphound.com/littlebrother/) by Cory Doctorow.  It's a
+[free download](http://craphound.com/littlebrother/download/), available
+in many formats (for iPod, J2ME for many mobile phones, PDF for
+computers, and more).
+
 June 9: Social Engineering
 --------------------------
 
@@ -46,12 +58,26 @@ can use public channels to exchange secret messages with each other.
 [More about this class](sneaky.html)
 
 
-June 23: Hacking the Web
-------------------------
+June 23: Electronic Fingerprints
+--------------------------------
 
-HTML forms, JavaScript, XSS
+What if you were on vacation in New Khavistan, when you stumbled across
+important information about a plan to invade Española?  How would you
+make contact with the CIA while avoiding being detected by the New
+Khavistan secret police?
 
-Lab: Rewrite an HTML form to buy a digital camera for $1
+Following on to the previous week, we'll go over what sort of
+fingerprints you leave behind while using computers.  You'll dream up
+ways to have secure authenticated anonymous communication with the CIA,
+and I'll be the secret police and tell you whether things will or won't
+work.  Avoiding detection isn't as easy as you might think!
+
+Just for Devin, we'll talk about different techniques to get around
+firewalls, anonymize web surfing, and tunnel traffic in strange and
+exciting ways.
+
+Lab: we'll trace some email, and then try to send some untraceable email
+to each other.
 
 
 
@@ -79,17 +105,12 @@ How they work, who's behind them, and the money involved.
 Lab: Play tanks
 
 
-July 14: Electronic Fingerprints
---------------------------------
+July 14: Hacking the Web
+------------------------
 
-What the Internet knows about you.  How information is combined to form
-something more useful.  How to use these same tools for your own benefit.
+HTML forms, JavaScript, XSS
 
-Just for Devin, we'll talk about different techniques to get around
-firewalls.
-
-Lab: we'll trace some email, and then try to send some untraceable email
-to each other.
+Lab: Rewrite an HTML form to buy a digital camera for $1
 
 
 July 21: We Launch Our Attack
