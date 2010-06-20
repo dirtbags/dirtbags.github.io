@@ -2,7 +2,7 @@ Title: Summer Hacking School
 
 June 9 - July 28, 2010  
 7:00pm - 8:00pm  
-HT building, Northern New Mexico College  
+HT building, Northern New Mexico College (drop-in, not through NNMC)  
 Española, New Mexico
 
 Before you can design secure systems, you need to understand how attacks
@@ -22,6 +22,9 @@ Brother](http://craphound.com/littlebrother/) by Cory Doctorow.  It's a
 [free download](http://craphound.com/littlebrother/download/), available
 in many formats (for iPod, J2ME for many mobile phones, PDF for
 computers, and more).
+
+Thanks to NNMC for letting us use their space!
+
 
 June 9: Social Engineering
 --------------------------

@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>TITLE</title>
+    <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="/dirtbags.css" type="text/css" />
     <link rel="icon" type="image/png" href="/icon.png" />
   </head>
