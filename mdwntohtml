@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/sh -e
 
 while IFS=: read field value; do
     case "$field" in

@@ -55,6 +55,8 @@ So far we have:
 * darkcipher: casual
 * cashmoney: casual
 * tk_lane: casual
+* Sean: casual
+* Aid: casual
 
 
 Portable Tanks

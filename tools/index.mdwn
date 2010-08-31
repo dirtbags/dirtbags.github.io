@@ -3,6 +3,7 @@ Title: Assorted tools
 Here are some little programs that are either too small or too
 self-explanatory to deserve their own web pages.
 
+* [bubblebabble.c](bubblebabble.c): A bubblebabble digest in C
 * [zar](zar): Python Archiver, to get around SMTP filtering
 * [zdec](zdec): Base64/Hex/whatever decoder/encoder
 * [zpex](zpex): Extract Windows PE files from anything
