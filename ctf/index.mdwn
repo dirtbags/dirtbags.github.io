@@ -1,0 +1,93 @@
+Title: Capture The Flag 2010
+
+*What:* Capture The Flag (CTF) competition  
+*Where:* Fidel Center Ballroom, New Mexico Tech, Socorro, NM  
+*When:* October 29 &amp; 30 2010, times to be determined
+
+About
+=====
+
+Capture The Flag puts teams head-to-head in a skills test covering
+cybersecurity, systems administration, programming, codebreaking,
+digital forensics, mathematics, and more.
+
+2010 CTF is brought to you by the Advanced Computing Solutions Program
+Office (ACS-PO) at Los Alamos National Laboratory (LANL), in conjunction
+with the New Mexico Tech Computer Science department, and the New Mexico
+Tech chapter of the Association of Computing Machinery (ACM).
+
+The contests and puzzles in the event are designed to be fun and challenging
+for newbies and cyber security professionals alike, so don't worry if you 
+aren't a *1337 h4xx0r*.  Register a team and come have some fun.
+
+
+Registration
+============
+
+Registration is open to all students at all area colleges and
+universities.
+
+If you would like to participate in the event, please register a team by
+**October 22, 2010**.  Teams may have between 2 and 10 members.
+
+To register your team, just submit this form.
+
+<form action="register.cgi">
+Team name: <input name="team"><br>
+Team size: <input name="size"><br>
+Contact email: <input name="email"><br>
+<input type="submit">
+</form>
+
+
+CTF Chat
+========
+
+You can join other CTF participants on IRC: woozle.org channel #ctf.
+You can connect with SSL on ports 994 or 6697.
+
+
+What to Bring
+=============
+
+Each team will get their own table with chairs, an ethernet cable
+connected to the contest network, and a power strip.  Teams may borrow
+an 8-port mini-switch if they need one, although you are encouraged to
+bring your own networking gear.
+
+Each team is expected to provide any laptops, desktops (remember that
+there is limited space), network cables, storage devices, and additional
+networking equipment they need in order to work.  No meals are provided,
+but there are several restaurants close to the university.
+
+To get an idea about what's helpful to bring, the dirtbags team brings
+the following items to Defcon oCTF:
+
+* An OpenWRT router with the ngircd and vsftpd packages installed, to
+  be a firewall, file server, and IRC server
+* A mirror of the Debian testing i386 archive (attached to router)
+* A tetherable cell phone for Internet access
+* Two 8-port mini-switches
+* Two ethernet cables per team member
+* One extension cord per team member
+
+
+Rules
+=====
+
+While almost anything goes, there are a few rules in place to make sure
+everyone gets to enjoy the event.  If you break the rules, we will
+kick you out for the rest of the game, and may refuse to let you in
+again in future events.
+
+1. No ARP-level attacks (garp, IP spoofing, DHCP servers)
+2. No DoS attacks
+3. No disruptive behavior
+
+Consider the network hostile.  You may want to rebuild your machine
+after the contest ends.  Bring a machine with personal information at
+your peril.
+
+LANL, NMT, and the NMT ACS chapter are not responsible for what happens
+to your machine on the event network.
+
