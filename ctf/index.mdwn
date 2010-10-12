@@ -2,7 +2,7 @@ Title: Capture The Flag 2010
 
 *What:* Capture The Flag (CTF) competition  
 *Where:* Fidel Center Ballroom, New Mexico Tech, Socorro, NM  
-*When:* October 29 &amp; 30 2010, times to be determined
+*When:* October 29 &amp; 30 2010, 10:00am - 6:00pm
 
 About
 =====
@@ -90,4 +90,13 @@ your peril.
 
 LANL, NMT, and the NMT ACS chapter are not responsible for what happens
 to your machine on the event network.
+
+
+Questions?
+==========
+
+If you have any questions that this page doesn't address (like, say
+you're at Colorado School of Mines and need help convincing a professor
+to give you some slack so you can drive down), hop on IRC or [mail
+me](mailto:zephyr@dirtbags.net) and I'll see what I can do to help you out.
 
