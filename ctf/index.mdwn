@@ -21,25 +21,36 @@ for newbies and cyber security professionals alike, so don't worry if you
 aren't a *1337 h4xx0r*.  Register a team and come have some fun.
 
 
-Registration
-============
+Teams
+=====
 
-Registration is open to all students at all area colleges and
-universities.
+<table>
+  <tr><th>Name</th><th>Size</th></tr>
+  <tr><td>ELC</td><td>10</td></tr>
+  <tr><td>Cinderella</td><td>9</td></tr>
+  <tr><td>ma.icio.us</td><td>3</td></tr>
+  <tr><td>ND</td><td>1</td></tr>
+  <tr><td>MB</td><td>1</td></tr>
+  <tr><td>Team Marcos</td><td>1</td></tr>
+  <tr><td>SL</td><td>1</td></tr>
+  <tr><td>DG</td><td>1</td></tr>
+  <tr><td>Cucumber Annihilators</td><td>2</td></tr>
+  <tr><td>Kool1</td><td>1</td></tr>
+  <tr><td>Waycaster</td><td>1</td></tr>
+  <tr><td>bbb</td><td>5</td></tr>
+  <tr><td>GA</td><td>1</td></tr>
+  <tr><td>Spring Loaded Flying Intestines</td><td>9</td></tr>
+  <tr><td>SFS forgot to register on time</td><td>10</td></tr>
+</table>
 
-If you would like to participate in the event, please register a team
-(2-10 people) by **October 22, 2010**.  If you can't find enough people
-for a team, please go ahead and register a team of one, so we know about
-how many to expect.
+Teams of size 1 should really hop on IRC to see about joining up into
+larger teams.  It isn't that we doubt your skills, but the larger teams
+are just going to dominate you guys by sheer volume.
 
-To register your team, just submit this form.
-
-<form action="register.cgi">
-Team name: <input name="team"><br>
-Team size: <input name="size"><br>
-Contact email: <input name="email"><br>
-<input type="submit">
-</form>
+If you didn't register your team but would still like to come, stop by
+and we'll make every effort to get you in.  If you'd be driving from out
+of town, please <a href="mailto:zephyr@dirtbags.net">email me</a> and
+let me know so we can make sure you'll have space.
 
 
 CTF Chat
@@ -100,5 +111,6 @@ Questions?
 If you have any questions that this page doesn't address (like, say
 you're at Colorado School of Mines and need help convincing a professor
 to give you some slack so you can drive down), hop on IRC or [mail
-me](mailto:zephyr@dirtbags.net) and I'll see what I can do to help you out.
+me](mailto:zephyr@dirtbags.net?subject=posters:xurat-tulox) and I'll see
+what I can do to help you out.
 
