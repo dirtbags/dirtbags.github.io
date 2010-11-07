@@ -1,13 +1,12 @@
 /**** document ****/
 
 html {
-    background: #222 url(grunge.png) repeat-x;
+    background: #112 url(grunge.png) repeat-x;
 }
 
 body {
     font-family: sans-serif;
-    color: #fff;
-    margin: 50px 0 0 110px;
+    color: #ddc;
     padding: 10px;
     max-width: 700px;
 }
@@ -17,64 +16,38 @@ body {
 h1:first-child {
     text-transform: lowercase;
     font-size: 1.6em;
-/*     background-color: #222; */
-/*     opacity: 0.9; */
     padding: 3px;
-    color: #2a2;
     margin: 0 0 1em 70px;
 }
 
 h1:first-child:before {
-   color: #fff;
+   color: #ddc;
    letter-spacing: -0.1em;
    content: "Dirtbags: ";
 }
 
 /*** left side bar ***/
 
-#navigation {
-  position: absolute;
-  background: #222;
-  opacity: 0.9;
-  top: 80px;
-  left: 0px;
-  padding: 0;
+nav h2 {
+  display: none;
 }
 
-#navigation h3 {
-  font-size: 100%;
-  border-bottom: 2px solid #444;
-}
-
-#navigation ul {
+nav ul {
   list-style: none;
-  padding: 0;
-  margin: 0;
+  text-align: center;
 }
 
-#navigation li a {
-  display: block;
-  height: 25px;
-  width: 90px;
-  padding: 5px;
-  margin: 5px;
-  background: inherit;
-  border-right: 4px solid #444;
-  color: #999;
+nav li {
+    display: inline;
+}
+
+nav li a {
   text-transform: lowercase;
   font-size: 0.9em;
 }
 
-#navigation li a:hover {
-  color: #f4f4f4;
-  background: #333;
-  border-right: 4px solid #2a2;
-}
-
-#navigation li .active {
-  color: #999;
-  background: #333;
-  border-right: 4px solid #444;
+nav li + li:before {
+    content: " | ";
 }
 
 
@@ -86,14 +59,13 @@ a img {
 
 a {
     text-decoration: none;
-    color: #2a2;
+    color: #2a4;
     font-weight: bold;
 }
 
 a:hover {
-    color: #fff;
-    background: #2a2;
-    font-weight: bold;
+    color: #ddc;
+    background: #2a4;
 }
 
 
@@ -103,13 +75,11 @@ h1, h2, h3 {
 }
 
 .readme {
-    color: #fff;
     background-color: #555;
     margin: 1em;
 }
 
 pre {
-    color: #fff;
     background-color: #222;
     border: solid #ccc 2px;
     padding: 0.25em;
@@ -180,16 +150,3 @@ dd {
 .solved {
     text-decoration: line-through;
 }
-
-table.pollster {
-    margin-left: 5em;
-}
-
-table.pollster td {
-    padding: 2px 1em 2px 5px;
-}
-
-table.pollster thead {
-    font-weight: bold;
-}
-

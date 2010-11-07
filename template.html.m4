@@ -12,14 +12,14 @@ dnl BODY BEGIN
 divert(1)
 dnl BODY END
 dnl FOOT BEGIN
-    <div id="navigation">
+    <nav>
       <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/py-pcap.html">py-pcap</a></li>
         <li><a href="/tools/">Tools</a></li>
         <li><a href="/gitweb.cgi">VCS</a></li>
       </ul>
-    </div>
+    </nav>
 dnl FOOT END
   </body>
 </html>
