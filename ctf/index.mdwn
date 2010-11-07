@@ -1,115 +1,20 @@
-Title: Capture The Flag 2010
+Title: Capture The Flag
 
-*What:* Capture The Flag (CTF) competition  
-*Where:* Fidel Center Ballroom, New Mexico Tech, Socorro, NM  
-*When:* October 29 &amp; 30 2010, 10:00am - 6:00pm
+We run computer security contests modeled after the Capture The Flag
+event at Def Con.
 
-About
-=====
+Upcoming Events
+===============
 
-Capture The Flag puts teams head-to-head in a skills test covering
-cybersecurity, systems administration, programming, codebreaking,
-digital forensics, mathematics, and more.
-
-2010 CTF is brought to you by the Advanced Computing Solutions Program
-Office (ACS-PO) at Los Alamos National Laboratory (LANL), in conjunction
-with the New Mexico Tech Computer Science department, and the New Mexico
-Tech chapter of the Association of Computing Machinery (ACM).
-
-The contests and puzzles in the event are designed to be fun and challenging
-for newbies and cyber security professionals alike, so don't worry if you 
-aren't a *1337 h4xx0r*.  Register a team and come have some fun.
+* (January 22-23, Central Michigan University)[2011-01-CMU/]
 
 
-Teams
-=====
+Past Events
+===========
 
-<table>
-  <tr><th>Name</th><th>Size</th></tr>
-  <tr><td>ELC</td><td>10</td></tr>
-  <tr><td>Cinderella</td><td>9</td></tr>
-  <tr><td>mal.icio.us</td><td>3</td></tr>
-  <tr><td>ND</td><td>1</td></tr>
-  <tr><td>MB</td><td>1</td></tr>
-  <tr><td>SL</td><td>1</td></tr>
-  <tr><td>DG</td><td>1</td></tr>
-  <tr><td>Cucumber Annihilators</td><td>2</td></tr>
-  <tr><td>Kool1</td><td>1</td></tr>
-  <tr><td>Waycaster</td><td>1</td></tr>
-  <tr><td>bbb</td><td>5</td></tr>
-  <tr><td>GA</td><td>1</td></tr>
-  <tr><td>Spring Loaded Flying Intestines</td><td>10</td></tr>
-  <tr><td>SFS forgot to register on time</td><td>10</td></tr>
-</table>
-
-Teams of size 1 should really hop on IRC to see about joining up into
-larger teams.  It isn't that we doubt your skills, but the larger teams
-are just going to dominate you guys by sheer volume.
-
-If you didn't register your team but would still like to come, stop by
-and we'll make every effort to get you in.  If you'd be driving from out
-of town, please <a href="mailto:zephyr@dirtbags.net">email me</a> and
-let me know so we can make sure you'll have space.
-
-
-CTF Chat
-========
-
-You can join other CTF participants on IRC: woozle.org channel #ctf.
-You can connect with SSL on ports 994 or 6697.
-
-
-What to Bring
-=============
-
-Each team will get their own table with chairs, an ethernet cable
-connected to the contest network, and a power strip.  Teams may borrow
-an 8-port mini-switch if they need one, although you are encouraged to
-bring your own networking gear.
-
-Each team is expected to provide any laptops, desktops (remember that
-there is limited space), network cables, storage devices, and additional
-networking equipment they need in order to work.  No meals are provided,
-but there are several restaurants close to the university.
-
-To get an idea about what's helpful to bring, the dirtbags team brings
-the following items to Defcon oCTF:
-
-* An OpenWRT router with the ngircd and vsftpd packages installed, to
-  be a firewall, file server, and IRC server
-* A mirror of the Debian testing i386 archive (attached to router)
-* A tetherable cell phone for Internet access
-* Two 8-port mini-switches
-* Two ethernet cables per team member
-* One extension cord per team member
-
-
-Rules
-=====
-
-While almost anything goes, there are a few rules in place to make sure
-everyone gets to enjoy the event.  If you break the rules, we will
-kick you out for the rest of the game, and may refuse to let you in
-again in future events.
-
-1. No ARP-level attacks (garp, IP spoofing, DHCP servers)
-2. No DoS attacks
-3. No disruptive behavior
-
-Consider the network hostile.  You may want to rebuild your machine
-after the contest ends.  Bring a machine with personal information at
-your peril.
-
-LANL, NMT, and the NMT ACS chapter are not responsible for what happens
-to your machine on the event network.
-
-
-Questions?
-==========
-
-If you have any questions that this page doesn't address (like, say
-you're at Colorado School of Mines and need help convincing a professor
-to give you some slack so you can drive down), hop on IRC or [mail
-me](mailto:zephyr@dirtbags.net?subject=posters:xurat-tulox) and I'll see
-what I can do to help you out.
-
+* (October 29-30, New Mexico Tech)[2010-10-NMT/]
+* October 2010, Washington State
+* Spring 2010, New Mexico Café Scientifique
+* May 2010, Georgia
+* February 2010, New Mexico
+* (October 2009, New Mexico Tech)[2009-10-NMT/]
