@@ -28,10 +28,9 @@ Teams
   <tr><th>Name</th><th>Size</th></tr>
   <tr><td>ELC</td><td>10</td></tr>
   <tr><td>Cinderella</td><td>9</td></tr>
-  <tr><td>ma.icio.us</td><td>3</td></tr>
+  <tr><td>mal.icio.us</td><td>3</td></tr>
   <tr><td>ND</td><td>1</td></tr>
   <tr><td>MB</td><td>1</td></tr>
-  <tr><td>Team Marcos</td><td>1</td></tr>
   <tr><td>SL</td><td>1</td></tr>
   <tr><td>DG</td><td>1</td></tr>
   <tr><td>Cucumber Annihilators</td><td>2</td></tr>
@@ -39,7 +38,7 @@ Teams
   <tr><td>Waycaster</td><td>1</td></tr>
   <tr><td>bbb</td><td>5</td></tr>
   <tr><td>GA</td><td>1</td></tr>
-  <tr><td>Spring Loaded Flying Intestines</td><td>9</td></tr>
+  <tr><td>Spring Loaded Flying Intestines</td><td>10</td></tr>
   <tr><td>SFS forgot to register on time</td><td>10</td></tr>
 </table>
 
