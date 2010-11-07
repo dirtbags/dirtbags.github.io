@@ -1,7 +1,7 @@
 Title: 2011 Capture The Flag @ Central Michigan University
 
 *What:* Capture The Flag (CTF) competition  
-*Where:* TBA, Central Michigan University, Mount Pleasant, MI
+*Where:* TBA, Central Michigan University, Mount Pleasant, MI  
 *When:* January 22-23, 10am-8pm
 
 About
@@ -43,7 +43,7 @@ CTF Chat
 ========
 
 You can join other CTF participants on IRC: [woozle.org channel
-#ctf](irc://woozle.org/ctf).  You can connect with SSL on ports 994 or
+\#ctf](irc://woozle.org/ctf). You can connect with SSL on ports 994 or
 6697.
 
 
