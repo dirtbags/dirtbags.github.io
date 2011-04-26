@@ -1,0 +1,57 @@
+Title: Dirtbags@DC19
+
+CTF Quals Team
+--------------
+
+We will work on the CTF qualifying round this year.  As described in
+the "welcome" email to our team list:
+
+> Once again, my personal intent isn't to show off what a badass I am, but
+> to get ideas for new puzzles in [my own contest](/ctf/). I am therefore not
+> aiming to actually qualify, but merely learn. If we do qualify, well,
+> we will have to decide if we want to actually participate. Basically,
+> don't count on qualifying or needing to commit to stress yourself out
+> for four days straight in August.
+>
+> Because we have people from around the USA, maybe even outside the
+> country, we'll be doing our interactions on IRC. You'll be expected
+> to get on IRC and start shooting
+> the breeze at least a month before the quals, so you get a chance to
+> meet everyone on our team.
+
+The quals are always a lot of fun, and there's not much pressure if
+you go into it not hoping to actually qualify.  If you'd like to join
+the dirtbags team, contact me <zephyr@dirtbags.net> to get a team hash
+to use on the [registration
+page](https://www.ddtek.biz/reg/dc19_reg.jsp).
+
+
+The Dirtbus
+-----------
+
+Last year's dirtbus didn't result in the sort of team cohesion we were
+hoping for—frankly, it was a PITA—so you have to find your own ride
+and room this year.
+
+
+Capture the Packet
+------------------
+
+slackish will participate in Capture the Packet this year.  CTP teams
+can't be larger than 2, but if you're interested, contact slackish and
+maybe he will deem you worthy.
+
+
+Open Capture The Flag
+---------------------
+
+We will participate in Open Capture The Flag again this year.  Again,
+we need people in the following roles:
+
+* Gofer: gofer drinks, gofer food, gofer equipment, gofer schwag, etc.
+* Dedicated h4x0r: plan to be working with us most of the event
+* Casual h4x0r: drop by and help out when you're otherwise unoccupied
+* Home audience: VPN in, hop on IRC, and assist when you can, or just cheer us on
+* Cheerleader: swing by occasionally and chat with us, so we remember to take breaks
+
+Please get in touch with <zephyr@dirtbags.net> if you're interested.

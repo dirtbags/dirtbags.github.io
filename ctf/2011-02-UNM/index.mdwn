@@ -1,8 +1,8 @@
-Title: 2011 Capture The Flag @ Central Michigan University
+Title: 2011 Capture The Flag @ University of New Mexico
 
 *What:* Capture The Flag (CTF) competition  
-*Where:* Pearce Hall Room 424, Central Michigan University, Mount Pleasant, MI  
-*When:* January 22-23, 10am-8pm
+*Where:* Stamm Room, University of New Mexico, Albuquerque
+*When:* February 12, 8am-5pm
 
 About
 =====
@@ -22,7 +22,7 @@ Registration
 Registration is open to all students at area colleges and universities.
 
 If you would like to participate in the event, please register a team by
-**January 17, 2011**.  Teams may have between 1 and 10 members.
+**February 2, 2011**.  Teams may have between 1 and 10 members.
 Although larger teams inevitably benefit from sheer volume, small teams
 can make significant headway.  We allow teams to join up before or
 during the contest.
@@ -30,7 +30,7 @@ during the contest.
 To register your team, just submit this form.
 
 <form action="../register.cgi">
-<input type="hidden" name="event" value="2011-01-CMU">
+<input type="hidden" name="event" value="2011-02-NMT">
 Team name: <input name="team"><br>
 Team size: <input name="size"><br>
 Contact email (for announcements): <input name="email"><br>
