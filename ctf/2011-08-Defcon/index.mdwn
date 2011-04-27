@@ -9,13 +9,17 @@ About
 
 Open Capture The Flag puts teams head-to-head in a skills test covering
 cybersecurity, systems administration, programming, codebreaking,
-digital forensics, mathematics, and more.
+digital forensics, mathematics, and more.  It is open to all Defcon
+attendees, no qualifying round required.
 
 The contests and puzzles in the event are designed to be educational and
 challenging for newcomers and cyber security professionals alike, so
 don't worry if people commonly address you by a name without numbers in
 it.  Register a team and come have some fun.
 
+The oCTF event at Defcon was begun by [DC949](http://www.dc949.org/),
+later run by tubewarriors.  Both groups ran excellent contests which
+heavily influenced ours, and we hope we live up to their legacy.
 
 Registration
 ============
@@ -26,7 +30,7 @@ that we're actually running oCTF this year.
 Although drop-ins are allowed, you are encouraged to register to secure
 a table for your team.  Each team will get a table, each table has
 seating for up to 10.  You may organize this however you want.  Larger
-teams inevitable benefit from sheer volume, but small teams may focus on
+teams inevitably benefit from sheer volume, but small teams may focus on
 a subset of categories if they're not interested in trying to place
 overall.
 
@@ -53,10 +57,12 @@ oCTF events has brought:
   don't count on any Internet access for any extended period of time)
 * Two 8-port mini-switches
 * Two ethernet cables per team member
-* One extension cord per team member
+* One extension cord (the type with three outlets at the end) per 
+  team member
 
 
 Discussion
 ==========
 
-Discussion will take place on the Defcon forums.
+Discussion will take place on the [Defcon
+forums](https://forum.defcon.org/forumdisplay.php?f=549).
