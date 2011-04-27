@@ -35,8 +35,7 @@ What to Bring
 =============
 
 Each team will get their own table with 10 chairs, an ethernet cable
-connected to the contest network on 10.x.0.0/16 (each team gets their
-own x), and a power strip.
+connected to the contest network, and a power strip.
 
 Teams are expected to provide any computers, switches, cables, storage
 devices, and additional equipment they need in order to work.
