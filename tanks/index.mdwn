@@ -36,4 +36,9 @@ in your web browser if you prefer.  The original [Python
 version](http://dirtbags.net/gitweb.cgi?p=pytanks) from 2010 is also
 available.
 
+* [Development version](http://dirtbags.net/gitweb.cgi?p=tanks;a=snapshot;h=master;sf=tgz)
 * [Version 1.0](http://dirtbags.net/gitweb.cgi?p=tanks;a=snapshot;h=1.0;sf=tgz)
+
+To clone the git project:
+
+    git clone http://dirtbags.net/projects/tanks

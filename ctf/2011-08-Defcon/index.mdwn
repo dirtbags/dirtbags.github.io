@@ -1,68 +1,10 @@
-Title: Open Capture The Flag @ Defcon 19
+Title: Dirtbags @ Defcon 19
 
-*What:* Open Capture The Flag  
-*Where:* [Defcon 19](https://defcon.org/)  
-*When:* 10am to 10pm, Friday and Saturday
+We will be running the Project 2 contest at Defcon 19.  This drop-in
+event for individuals will be unlike anything we've run before, with a
+new look and feel and all-new puzzles.  It will require some of the
+same skills as prior CTFs, along with new skills we've never had
+categories for before.
 
-About
-=====
-
-Open Capture The Flag puts teams head-to-head in a skills test covering
-cybersecurity, systems administration, programming, codebreaking,
-digital forensics, mathematics, and more.  It is open to all Defcon
-attendees, no qualifying round required.
-
-The contests and puzzles in the event are designed to be educational and
-challenging for newcomers and cyber security professionals alike, so
-don't worry if people commonly address you by a name without numbers in
-it.  Register a team and come have some fun.
-
-The oCTF event at Defcon was begun by [DC949](http://www.dc949.org/),
-later run by tubewarriors.  Both groups ran excellent contests which
-heavily influenced ours, and we hope we live up to their legacy.
-
-Registration
-============
-
-Registration is not currently open, but will be when we get confirmation
-that we're actually running oCTF this year.
-
-Although drop-ins are allowed, you are encouraged to register to secure
-a table for your team.  Each team will get a table, each table has
-seating for up to 10.  You may organize this however you want.  Larger
-teams inevitably benefit from sheer volume, but small teams may focus on
-a subset of categories if they're not interested in trying to place
-overall.
-
-
-What to Bring
-=============
-
-Each team will get their own table with 10 chairs, an ethernet cable
-connected to the contest network, and a power strip.
-
-Teams are expected to provide any computers, switches, cables, storage
-devices, and additional equipment they need in order to work.
-
-To get an idea about what's helpful to bring, the Dirtbags team at past
-oCTF events has brought:
-
-* One laptop per team member, with their favorite OS--Debian GNU/Linux
-  is a favorite--and a Virtual Machine installed with some version of
-  Windows
-* An OpenWRT router with the ngircd and vsftpd packages installed, to
-  be a firewall, file server, and IRC server
-* A mirror of the Debian testing i386 archive (attached to router)
-* A tetherable cell phone for Internet access (this is spotty, though,
-  don't count on any Internet access for any extended period of time)
-* Two 8-port mini-switches
-* Two ethernet cables per team member
-* One extension cord (the type with three outlets at the end) per 
-  team member
-
-
-Discussion
-==========
-
-Discussion will take place on the [Defcon
-forums](https://forum.defcon.org/forumdisplay.php?f=549).
+Check the web site of [General Statics](http://generalstatics.com/),
+our corporate sponsor, for details.

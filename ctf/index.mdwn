@@ -6,7 +6,13 @@ event at Def Con.
 Upcoming Events
 ===============
 
-* Fall 2011, Idaho (tentative)
+* [August 2011, Defcon](2011-08-Defcon)
+* Summer 2011, Central Michigan University (tentative)
+* October 2011, Idaho
+* Fall 2011, San Diego, California (tentative)
+* November 12, 2011, California
+* November 2011, New Mexico Tech
+* February 2012, University of New Mexico (tentative)
 * February 6-10 2012, Santa Fe, New Mexico
 
 
@@ -18,7 +24,7 @@ Past Events
 * [January 2011, Central Michigan University](2011-01-CMU/)
 * [October 2010, New Mexico Tech](2010-10-NMT/)
 * October 2010, Washington State
-* Spring 2010, New Mexico Café Scientifique
+* Spring 2010, New Mexico Café Scientifique; also see [Summer Hacking School](/shs/)
 * May 2010, Georgia
 * February 2010, New Mexico
 * [October 2009, New Mexico Tech](2009-10-NMT/)

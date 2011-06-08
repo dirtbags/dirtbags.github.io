@@ -16,7 +16,7 @@ dnl FOOT BEGIN
       <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/ctf/" title="Capture The Flag">CTF</a></li>
-        <li><a href="/defcon/">Defcon</a></li>
+        <li><a href="/tanks/">Tanks</a></li>
         <li><a href="/py-pcap.html">py-pcap</a></li>
         <li><a href="/tools/">Tools</a></li>
         <li><a href="/gitweb.cgi">VCS</a></li>
