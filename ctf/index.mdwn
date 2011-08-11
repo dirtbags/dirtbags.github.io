@@ -6,19 +6,18 @@ event at Def Con.
 Upcoming Events
 ===============
 
-* [August 2011, Defcon](2011-08-Defcon)
+* September 12-16 2011, California
+* September 17-18 2011, [HacKids](http://hackids.org/) San Jose (tentative)
 * October 17-21 2011, Idaho
-* October 2011, San Diego, California (tentative)
-* September 12-17 2011, California
-* November 2011, New Mexico Tech
-* January 2012, Central Michigan University
-* February 2012, University of New Mexico (tentative)
+* [November 5-6 2011, New Mexico Collegiate CTF Invitational](2011-11-05-NMT/)
 * February 6-10 2012, Santa Fe, New Mexico
 
 
 Past Events
 ===========
 
+* [August 2011, Defcon](2011-08-Defcon)
+* July 2011, Bay Area, California
 * March 2011, Santa Fe, New Mexico
 * [Februrary 2011, University of New Mexico](2011-02-UNM/)
 * [January 2011, Central Michigan University](2011-01-CMU/)

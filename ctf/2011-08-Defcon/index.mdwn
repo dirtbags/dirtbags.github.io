@@ -1,5 +1,8 @@
 Title: Dirtbags @ Defcon 19
 
+Project 2
+---------
+
 We ran the Project 2 contest at Defcon 19, August 5-7 2011.  The contest
 was designed to appeal to beginners, ramping up to puzzles which would
 intrigue the most skilled hackers.  The contest was designed as an
@@ -32,3 +35,11 @@ puzzles and better coordination with other contests.  We've gotten a lot
 of excited feedback from players who plan to come back either alone or
 in teams and we'll make sure we can accomodate both.
 
+
+EFF Fundraising
+---------------
+
+Zephyr raised $140 for the EFF by shaving his beard ($100) and getting
+a mohawk ($40).  Unfortunately, they wouldn't count the beard toward
+our total, so we didn't rank; otherwise we would have come in second
+place.
