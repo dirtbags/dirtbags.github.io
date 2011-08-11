@@ -3,15 +3,14 @@ Title: Dirtbags @ Defcon 19
 We ran the Project 2 contest at Defcon 19, August 5-7 2011.  The contest
 was designed to appeal to beginners, ramping up to puzzles which would
 intrigue the most skilled hackers.  The contest was designed as an
-augmented reality game, with a complex backstory which would be revealed
+Augmented Reality Game, with a complex backstory which would be revealed
 as players proceeded through puzzles.
 
 Unbeknownst to us, the Defcon 19 badge was being designed by LostboY
-also as an Augmented Reality Game.  This completely overshadowed any
-story we could possibly have come up with; and honestly, we'd be hard
-pressed to outdo LostboY.  It's possible that our plan to compel people
-to play out of curiosity was undermined by the bigger and better badge
-story.
+also as an Augmented Reality Game.  This overshadowed any story we could
+possibly have come up with; and honestly, we'd be hard pressed to outdo
+LostboY.  We believe that our plan to compel people to play out of
+curiosity was undermined by the bigger and better badge story.
 
 Despite the overlap with the badge contest, we had easily over 100
 players, with 49 making at least one point and 17 spending enough time
@@ -29,7 +28,7 @@ You may view the [scoreboard](scoreboard.html), as captured at the time
 we turned off the server.
 
 We'll be back at Defcon 20 in 2012 if we're permitted, with updated
-puzzles and a better, less ambiguous, description.  We've gotten a lot
+puzzles and better coordination with other contests.  We've gotten a lot
 of excited feedback from players who plan to come back either alone or
 in teams and we'll make sure we can accomodate both.
 
