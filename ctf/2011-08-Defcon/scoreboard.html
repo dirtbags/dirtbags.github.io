@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html><head><title>Project 2 Scoreboard</title>
+<meta http-equiv="refresh" content="60">
+<style>
+html {background: black url("p2inv.png") no-repeat top center; background-size: contain; min-height: 100%; color: white;}
+body {background: black; opacity: 0.8; margin: 0;}
+p {margin: 0;}
+span {display: inline-block; margin: 0; border: 0;}
+.blab {background-color: #842;}
+.envy {background-color: #028;}
+.foam {background-color: #802;}
+.gore {background-color: #640;}
+.mint {background-color: #486;}
+.pear {background-color: #682;}
+.rope {background-color: #408;}
+.shoe {background-color: #624;}
+.name {position: absolute; right: 10px;}
+#scores p {margin: 0; padding: 0; border: none; border-top: thin solid #222; clear: both;}
+#scores p:hover {background-color: #222;}
+</style>
+</head><body>
+<p>
+<span class="blab">blab</span>
+<span class="envy">envy</span>
+<span class="foam">foam</span>
+<span class="gore">gore</span>
+<span class="mint">mint</span>
+<span class="pear">pear</span>
+<span class="rope">rope</span>
+<span class="shoe">shoe</span>
+</p>
+<div id="scores">
+<p>
+<span class="name">djnz</span>
+<span class="envy" style="width: 1.33%" title="djnz:envy:8"><!--
+:djnz envy 8
+-->8</span><span class="foam" style="width: 32.67%" title="djnz:foam:196"><!--
+:djnz foam 196
+-->196</span><span class="gore" style="width: 12.33%" title="djnz:gore:74"><!--
+:djnz gore 74
+-->74</span><span class="mint" style="width: 3.33%" title="djnz:mint:20"><!--
+:djnz mint 20
+-->20</span><span class="pear" style="width: 16.67%" title="djnz:pear:100"><!--
+:djnz pear 100
+-->100</span><span class="rope" style="width: 13.33%" title="djnz:rope:80"><!--
+:djnz rope 80
+-->80</span><span class="shoe" style="width: 2.50%" title="djnz:shoe:15"><!--
+:djnz shoe 15
+-->15</span>
+</p>
+<p>
+<span class="name">drb</span>
+<span class="blab" style="width: 6.67%" title="drb:blab:40"><!--
+:drb blab 40
+-->40</span><span class="envy" style="width: 0.33%" title="drb:envy:2"><!--
+:drb envy 2
+-->2</span><span class="foam" style="width: 6.00%" title="drb:foam:36"><!--
+:drb foam 36
+-->36</span><span class="gore" style="width: 0.67%" title="drb:gore:4"><!--
+:drb gore 4
+-->4</span><span class="mint" style="width: 2.17%" title="drb:mint:13"><!--
+:drb mint 13
+-->13</span><span class="pear" style="width: 16.67%" title="drb:pear:100"><!--
+:drb pear 100
+-->100</span><span class="rope" style="width: 13.33%" title="drb:rope:80"><!--
+:drb rope 80
+-->80</span><span class="shoe" style="width: 2.50%" title="drb:shoe:15"><!--
+:drb shoe 15
+-->15</span>
+</p>
+<p>
+<span class="name">elegin</span>
+<span class="envy" style="width: 1.33%" title="elegin:envy:8"><!--
+:elegin envy 8
+-->8</span><span class="foam" style="width: 19.17%" title="elegin:foam:115"><!--
+:elegin foam 115
+-->115</span><span class="mint" style="width: 3.33%" title="elegin:mint:20"><!--
+:elegin mint 20
+-->20</span><span class="pear" style="width: 1.67%" title="elegin:pear:10"><!--
+:elegin pear 10
+-->10</span><span class="rope" style="width: 8.33%" title="elegin:rope:50"><!--
+:elegin rope 50
+-->50</span>
+</p>
+<p>
+<span class="name">redacted</span>
+<span class="gore" style="width: 2.67%" title="redacted:gore:16"><!--
+:redacted gore 16
+-->16</span><span class="mint" style="width: 8.50%" title="redacted:mint:51"><!--
+:redacted mint 51
+-->51</span><span class="rope" style="width: 13.33%" title="redacted:rope:80"><!--
+:redacted rope 80
+-->80</span>
+</p>
+<p>
+<span class="name">cprime</span>
+<span class="blab" style="width: 2.50%" title="cprime:blab:15"><!--
+:cprime blab 15
+-->15</span><span class="envy" style="width: 0.33%" title="cprime:envy:2"><!--
+:cprime envy 2
+-->2</span><span class="foam" style="width: 13.50%" title="cprime:foam:81"><!--
+:cprime foam 81
+-->81</span><span class="gore" style="width: 2.33%" title="cprime:gore:14"><!--
+:cprime gore 14
+-->14</span><span class="mint" style="width: 1.50%" title="cprime:mint:9"><!--
+:cprime mint 9
+-->9</span>
+</p>
+<p>
+<span class="name">m1sf1ts</span>
+<span class="envy" style="width: 0.50%" title="m1sf1ts:envy:3"><!--
+:m1sf1ts envy 3
+-->3</span><span class="foam" style="width: 1.33%" title="m1sf1ts:foam:8"><!--
+:m1sf1ts foam 8
+-->8</span><span class="gore" style="width: 12.33%" title="m1sf1ts:gore:74"><!--
+:m1sf1ts gore 74
+-->74</span><span class="mint" style="width: 3.33%" title="m1sf1ts:mint:20"><!--
+:m1sf1ts mint 20
+-->20</span>
+</p>
+<p>
+<span class="name">louie</span>
+<span class="envy" style="width: 0.33%" title="louie:envy:2"><!--
+:louie envy 2
+-->2</span><span class="gore" style="width: 1.50%" title="louie:gore:9"><!--
+:louie gore 9
+-->9</span><span class="mint" style="width: 2.17%" title="louie:mint:13"><!--
+:louie mint 13
+-->13</span><span class="rope" style="width: 13.33%" title="louie:rope:80"><!--
+:louie rope 80
+-->80</span>
+</p>
+<p>
+<span class="name">meznak</span>
+<span class="envy" style="width: 0.33%" title="meznak:envy:2"><!--
+:meznak envy 2
+-->2</span><span class="gore" style="width: 10.67%" title="meznak:gore:64"><!--
+:meznak gore 64
+-->64</span>
+</p>
+<p>
+<span class="name">fletch</span>
+<span class="envy" style="width: 1.17%" title="fletch:envy:7"><!--
+:fletch envy 7
+-->7</span><span class="foam" style="width: 2.17%" title="fletch:foam:13"><!--
+:fletch foam 13
+-->13</span><span class="gore" style="width: 1.50%" title="fletch:gore:9"><!--
+:fletch gore 9
+-->9</span><span class="mint" style="width: 4.67%" title="fletch:mint:28"><!--
+:fletch mint 28
+-->28</span>
+</p>
+<p>
+<span class="name">samy</span>
+<span class="envy" style="width: 0.33%" title="samy:envy:2"><!--
+:samy envy 2
+-->2</span><span class="mint" style="width: 3.33%" title="samy:mint:20"><!--
+:samy mint 20
+-->20</span>
+</p>
+<p>
+<span class="name">asterisk</span>
+<span class="envy" style="width: 0.17%" title="asterisk:envy:1"><!--
+:asterisk envy 1
+-->1</span><span class="mint" style="width: 3.33%" title="asterisk:mint:20"><!--
+:asterisk mint 20
+-->20</span>
+</p>
+<p>
+<span class="name">qumqats</span>
+<span class="envy" style="width: 0.33%" title="qumqats:envy:2"><!--
+:qumqats envy 2
+-->2</span><span class="gore" style="width: 1.50%" title="qumqats:gore:9"><!--
+:qumqats gore 9
+-->9</span><span class="mint" style="width: 1.50%" title="qumqats:mint:9"><!--
+:qumqats mint 9
+-->9</span>
+</p>
+<p>
+<span class="name">KarlRasmussen</span>
+<span class="envy" style="width: 0.33%" title="KarlRasmussen:envy:2"><!--
+:KarlRasmussen envy 2
+-->2</span><span class="gore" style="width: 0.67%" title="KarlRasmussen:gore:4"><!--
+:KarlRasmussen gore 4
+-->4</span><span class="mint" style="width: 2.17%" title="KarlRasmussen:mint:13"><!--
+:KarlRasmussen mint 13
+-->13</span>
+</p>
+<p>
+<span class="name">Jersey</span>
+<span class="envy" style="width: 0.33%" title="Jersey:envy:2"><!--
+:Jersey envy 2
+-->2</span><span class="gore" style="width: 1.50%" title="Jersey:gore:9"><!--
+:Jersey gore 9
+-->9</span><span class="mint" style="width: 0.67%" title="Jersey:mint:4"><!--
+:Jersey mint 4
+-->4</span>
+</p>
+<p>
+<span class="name">JAMESETETAZOO</span>
+<span class="envy" style="width: 0.33%" title="JAMESETETAZOO:envy:2"><!--
+:JAMESETETAZOO envy 2
+-->2</span><span class="mint" style="width: 2.17%" title="JAMESETETAZOO:mint:13"><!--
+:JAMESETETAZOO mint 13
+-->13</span>
+</p>
+<p>
+<span class="name">trafficone</span>
+<span class="envy" style="width: 0.17%" title="trafficone:envy:1"><!--
+:trafficone envy 1
+-->1</span><span class="mint" style="width: 2.17%" title="trafficone:mint:13"><!--
+:trafficone mint 13
+-->13</span>
+</p>
+<p>
+<span class="name">set</span>
+<span class="envy" style="width: 1.67%" title="set:envy:10"><!--
+:set envy 10
+-->10</span>
+</p>
+<p>
+<span class="name">paul</span>
+<span class="envy" style="width: 0.33%" title="paul:envy:2"><!--
+:paul envy 2
+-->2</span><span class="gore" style="width: 0.67%" title="paul:gore:4"><!--
+:paul gore 4
+-->4</span><span class="mint" style="width: 0.33%" title="paul:mint:2"><!--
+:paul mint 2
+-->2</span>
+</p>
+<p>
+<span class="name">seth</span>
+<span class="envy" style="width: 0.17%" title="seth:envy:1"><!--
+:seth envy 1
+-->1</span><span class="gore" style="width: 0.67%" title="seth:gore:4"><!--
+:seth gore 4
+-->4</span><span class="mint" style="width: 0.17%" title="seth:mint:1"><!--
+:seth mint 1
+-->1</span>
+</p>
+<p>
+<span class="name">Gm4n</span>
+<span class="envy" style="width: 0.17%" title="Gm4n:envy:1"><!--
+:Gm4n envy 1
+-->1</span><span class="gore" style="width: 0.67%" title="Gm4n:gore:4"><!--
+:Gm4n gore 4
+-->4</span><span class="mint" style="width: 0.17%" title="Gm4n:mint:1"><!--
+:Gm4n mint 1
+-->1</span>
+</p>
+<p>
+<span class="name">wham</span>
+<span class="envy" style="width: 0.17%" title="wham:envy:1"><!--
+:wham envy 1
+-->1</span><span class="gore" style="width: 0.67%" title="wham:gore:4"><!--
+:wham gore 4
+-->4</span>
+</p>
+<p>
+<span class="name">zim</span>
+<span class="envy" style="width: 0.33%" title="zim:envy:2"><!--
+:zim envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">vox</span>
+<span class="mint" style="width: 0.33%" title="vox:mint:2"><!--
+:vox mint 2
+-->2</span>
+</p>
+<p>
+<span class="name">toor</span>
+<span class="envy" style="width: 0.33%" title="toor:envy:2"><!--
+:toor envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">pusky</span>
+<span class="envy" style="width: 0.33%" title="pusky:envy:2"><!--
+:pusky envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">puck</span>
+<span class="envy" style="width: 0.33%" title="puck:envy:2"><!--
+:puck envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">orig3n</span>
+<span class="envy" style="width: 0.33%" title="orig3n:envy:2"><!--
+:orig3n envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">odyssey</span>
+<span class="envy" style="width: 0.33%" title="odyssey:envy:2"><!--
+:odyssey envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">finn</span>
+<span class="envy" style="width: 0.33%" title="finn:envy:2"><!--
+:finn envy 2
+-->2</span>
+</p>
+<p>
+<span class="name">wombat</span>
+<span class="envy" style="width: 0.17%" title="wombat:envy:1"><!--
+:wombat envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">turbo12</span>
+<span class="envy" style="width: 0.17%" title="turbo12:envy:1"><!--
+:turbo12 envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">test</span>
+<span class="envy" style="width: 0.17%" title="test:envy:1"><!--
+:test envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">SlugsOnToast</span>
+<span class="envy" style="width: 0.17%" title="SlugsOnToast:envy:1"><!--
+:SlugsOnToast envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">PunkAB</span>
+<span class="envy" style="width: 0.17%" title="PunkAB:envy:1"><!--
+:PunkAB envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">pieps</span>
+<span class="envy" style="width: 0.17%" title="pieps:envy:1"><!--
+:pieps envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">ohw</span>
+<span class="envy" style="width: 0.17%" title="ohw:envy:1"><!--
+:ohw envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">nullboy</span>
+<span class="envy" style="width: 0.17%" title="nullboy:envy:1"><!--
+:nullboy envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">nobody</span>
+<span class="envy" style="width: 0.17%" title="nobody:envy:1"><!--
+:nobody envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">namniart</span>
+<span class="envy" style="width: 0.17%" title="namniart:envy:1"><!--
+:namniart envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">melioratus</span>
+<span class="envy" style="width: 0.17%" title="melioratus:envy:1"><!--
+:melioratus envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">luffy</span>
+<span class="envy" style="width: 0.17%" title="luffy:envy:1"><!--
+:luffy envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">kid</span>
+<span class="envy" style="width: 0.17%" title="kid:envy:1"><!--
+:kid envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">gufoff</span>
+<span class="envy" style="width: 0.17%" title="gufoff:envy:1"><!--
+:gufoff envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">gizzy</span>
+<span class="envy" style="width: 0.17%" title="gizzy:envy:1"><!--
+:gizzy envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">foo</span>
+<span class="envy" style="width: 0.17%" title="foo:envy:1"><!--
+:foo envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">cmm</span>
+<span class="envy" style="width: 0.17%" title="cmm:envy:1"><!--
+:cmm envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">bob</span>
+<span class="envy" style="width: 0.17%" title="bob:envy:1"><!--
+:bob envy 1
+-->1</span>
+</p>
+<p>
+<span class="name">1</span>
+<span class="envy" style="width: 0.17%" title="1:envy:1"><!--
+:1 envy 1
+-->1</span>
+</p>
+</div></body></html>

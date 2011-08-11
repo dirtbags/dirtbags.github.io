@@ -1,10 +1,35 @@
 Title: Dirtbags @ Defcon 19
 
-We will be running the Project 2 contest at Defcon 19.  This drop-in
-event for individuals will be unlike anything we've run before, with a
-new look and feel and all-new puzzles.  It will require some of the
-same skills as prior CTFs, along with new skills we've never had
-categories for before.
+We ran the Project 2 contest at Defcon 19, August 5-7 2011.  The contest
+was designed to appeal to beginners, ramping up to puzzles which would
+intrigue the most skilled hackers.  The contest was designed as an
+augmented reality game, with a complex backstory which would be revealed
+as players proceeded through puzzles.
 
-Check the web site of [General Statics](http://generalstatics.com/),
-our corporate sponsor, for details.
+Unbeknownst to us, the Defcon 19 badge was being designed by LostboY
+also as an Augmented Reality Game.  This completely overshadowed any
+story we could possibly have come up with; and honestly, we'd be hard
+pressed to outdo LostboY.  It's possible that our plan to compel people
+to play out of curiosity was undermined by the bigger and better badge
+story.
+
+Despite the overlap with the badge contest, we had easily over 100
+players, with 49 making at least one point and 17 spending enough time
+to make at least 10 points.  Not much of the story was uncovered, so we
+may re-use it later (probably not at Defcon though).
+
+The contest ended officially at noon on Sunday, but 6 teams requested we
+continue running the contest, which we did until about 3:30pm
+
+One of the most exciting outcomes we observed was that players began
+helping each other out.  Even the eventual winner was providing hints
+and tips to other players.
+
+You may view the [scoreboard](scoreboard.html), as captured at the time
+we turned off the server.
+
+We'll be back at Defcon 20 in 2012 if we're permitted, with updated
+puzzles and a better, less ambiguous, description.  We've gotten a lot
+of excited feedback from players who plan to come back either alone or
+in teams and we'll make sure we can accomodate both.
+
