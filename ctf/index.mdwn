@@ -1,7 +1,17 @@
 Title: Capture The Flag
 
-We run computer security contests modeled after the Capture The Flag
-event at Def Con.
+We run computer security trainings and contests for high schools,
+colleges, and professionals.  Our events can focus on any combination of
+network or host forensics, binary reverse engineering, incident
+response, network or systems administration, secure coding, rapid code
+prototyping, penetration testing, and much more.
+
+Introduction
+============
+
+If a Dirtbags event is coming to your area and you'd like to know more
+before committing, [try our tutorials](tutorial/).
+
 
 Upcoming Events
 ===============
@@ -16,7 +26,7 @@ Upcoming Events
 Past Events
 ===========
 
-* [August 2011, Defcon](2011-08-Defcon)
+* [August 2011, DEF CON](2011-08-Defcon)
 * July 2011, Bay Area, California
 * March 2011, Santa Fe, New Mexico
 * [Februrary 2011, University of New Mexico](2011-02-UNM/)
