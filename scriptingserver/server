@@ -1,0 +1,21 @@
+#!/bin/sh
+
+mypid=$$
+	(sleep 20; kill -HUP $mypid) 1>/dev/null 2>&1 &
+
+rand=$(date +%H%S)
+echo $rand
+
+read answer
+
+if [ $answer = $(expr $rand + 1) ] ; then
+	echo "Good Job!"
+	exit 1
+elif [ $answer = $(expr $rand \* $rand) ] ; then
+	echo $answer
+	echo "Sweet! Your token is 'peanuts'!"
+	exit 1
+else
+	echo "OH NO! Wrong answer!"
+	exit 1
+fi
