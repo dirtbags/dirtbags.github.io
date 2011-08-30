@@ -102,6 +102,8 @@ Next we will compute the answer. The following line takes the value of rand and 
 	answer=$(expr $rand + 1) 
 Finally, we are going to echo back the value of answer to the server:
 	echo $answer
+	read stuff
+	echo $stuff 1>&2
 
 Now, save your file and run this line:
 	socat TCP:localhost:4444 EXEC:./client (or whatever you named your file)
