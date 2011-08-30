@@ -81,9 +81,36 @@ done
 </dd>
 </dl>
 
+Example
+=======
+
+So, let's walk through an example. On the server there is a random number generator. We need to first be able to connect to that server. How do we do that? 
+
+First we will enter the following commands into the terminal:
+	tcpsvd 0 4444 ./server &
+This lines will allow you to connect to the server and start the random number generator so you can start performing opeartions.
+
+Now that we've connected, let's try to write a simple script that will add 1 to the number. We notice at first, that if we try to do it by hand, we may not succeed. The server appears to timeout at a certain amount of time. This is where a script comes in handy.
+
+Open up a new file in your favorite editor such as Vim, gedit, emacs, etc.
+
+Let's start off our script as such:
+	#!/bin/sh
+Next we will read the number given by the server and save it in a variable:
+	read rand
+Next we will compute the answer. The following line takes the value of rand and adds 1 to it and then saves the new value into answer:
+	answer=$(expr $rand + 1) 
+Finally, we are going to echo back the value of answer to the server:
+	echo $answer
+
+Now, save your file and run this line:
+	socat TCP:localhost:4444 EXEC:./client (or whatever you named your file)
+
+If you did everything right, then you will get a response of 'Good Job!'. If you did something incorrectly, then you will get the response, 'OH NO!! Wrong answer!', and you will have to try again.
+
 Question
 ========
-Connect to the server using TCP, and then write two scripts: one that adds the number given to you by +1, and then another script that squares the number given to you. Once you have completed these, you will receive your token to put into the answer box below.
+Connect to the server using TCP, and then write a script that squares the number given to you. Once you have completed this, and done it corectly, you will receive your token to put into the answer box below.
 
 <p id="a">Enable JavaScript if you'd like to check your answer.</p>
 <script type="application/javascript" src="tutorial.js"></script>
