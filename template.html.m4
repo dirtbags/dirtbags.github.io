@@ -1,3 +1,4 @@
+changequote(`<<<',`>>>')dnl
 <!DOCTYPE html>
 <html lang="en">
   <head>
