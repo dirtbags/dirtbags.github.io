@@ -30,15 +30,6 @@ There are several things to take notice of in this very simple script. First and
 The script itself is just a series of commands. You could easily have typed these commands into the terminal, however, scripts come in handy when you need to perform multiple commands that would otherwise take up a lot of time if done by hand.
 Variables are first created by setting them equal to a value. Once your variable has been declared, you are then able to use the variable by including a $ in front of the variable name.
 
-Flow Control
-============
-
-sh supports several flow-control constructs, which can add power and flexibility to your scripts. We will go over a few of the more commonly used ones here.
-
-if
---
-The if statement is a simple conditional. Keep in mind that spaces in sh are very important.
-=======
 Quotes are another thing to keep in mind. There are multiple uses for quotes, and different quotes are used for different reasons. In our script, we use single quotes ('). Single quotes are used to quote whatever is inside them. Double quotes (") are used to preserve spaces and most special characters. Back-quotes, or back-ticks (\`), are used to evaluate the expression inside as a command; for instance:
 
     `x + y`
@@ -54,9 +45,9 @@ sh supports several flow-control constructs, which can add power and flexibility
 <dt>if</dt>
 <dd>The if statement is a simple conditional. Keep in mind that spaces in sh are very important.
 <pre>
-if [ condition ] ; then
+if [ condition ]; then
     commands
-elif [ condition ] ; then
+elif [ condition ]; then
     commands
 else
     commands
@@ -66,7 +57,7 @@ fi
 <dt>while</dt>
 <dd>while loops allow the user to proceed through a set of commands until a condition is met. Much like a for loop.
 <pre>
-while [ condition ] do
+while [ condition ]; do
     commands
 done
 </pre>
@@ -74,7 +65,7 @@ done
 <dt>for</dt>
 <dd>for loops iterate through a set of values until the list is exhausted.
 <pre>
-for var in list do
+for var in list; do
     commands
 done
 </pre>
@@ -112,8 +103,10 @@ If you did everything right, then you will get a response of 'Good Job!'. If you
 
 Question
 ========
+
 Connect to the server using TCP, and then write a script that squares the number given to you. Once you have completed this, and done it corectly, you will receive your token to put into the answer box below.
 
+<p id="debug"></p>
 <p id="a">Enable JavaScript if you'd like to check your answer.</p>
 <script type="application/javascript" src="tutorial.js"></script>
 <script type="application/javascript">ans("a", 54533);</script>
