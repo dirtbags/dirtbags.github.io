@@ -85,7 +85,6 @@ Question
 ========
 Connect to the server using TCP, and then write two scripts: one that adds the number given to you by +1, and then another script that squares the number given to you. Once you have completed these, you will receive your token to put into the answer box below.
 
-<p id="debug"></p>
 <p id="a">Enable JavaScript if you'd like to check your answer.</p>
 <script type="application/javascript" src="tutorial.js"></script>
 <script type="application/javascript">ans("a", 54533);</script>
