@@ -10,3 +10,4 @@ those who are able to progress more quickly.
 * [Counting](counting.html) in different bases
 * [File carving](carving.html)
 * [Codebreaking](codebreaking.html)
+* [Scripting](scripting.html)
