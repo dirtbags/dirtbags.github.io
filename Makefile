@@ -27,6 +27,8 @@ all: default
 
 -include */*.mk
 
+.DELETE_ON_ERROR:
+
 $(DESTDIR)/%.html: %.mdwn $(TEMPLATE)
 	@mkdir -p $(dir $@)
 	$(MDWNTOHTML) < $< > $@
