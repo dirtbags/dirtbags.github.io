@@ -3,7 +3,7 @@
 echo 'Content-type: text/html'
 echo
 
-echo $QUERY_STRING | awk 'BEGIN{RS="&"}{print}' | mail -s 'CTF registration' neale@woozle.org
+printf "%s" $QUERY_STRING | awk 'BEGIN{RS="&"}{print}' | mail -s 'CTF registration' neale@woozle.org
 TITLE='Team registered'
 cat <<EOD
 <!DOCTYPE html>

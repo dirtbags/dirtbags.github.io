@@ -86,17 +86,24 @@ Now that we've connected, let's try to write a simple script that will add 1 to 
 Open up a new file in your favorite editor such as Vim, gedit, emacs, etc.
 
 Let's start off our script as such:
+
 	#!/bin/sh
-Next we will read the number given by the server and save it in a variable:
+
+	# read the number given by the server and save it in a variable:
 	read rand
-Next we will compute the answer. The following line takes the value of rand and adds 1 to it and then saves the new value into answer:
+
+	# take the value of rand and add 1 to it, then save the new value into answer
 	answer=$(expr $rand + 1) 
-Finally, we are going to echo back the value of answer to the server:
+
+	# to echo back the value of answer to the server
 	echo $answer
+
+	# Read the server's answer and display it on the screen
 	read stuff
 	echo $stuff 1>&2
 
 Now, save your file and run this line:
+
 	socat TCP:localhost:4444 EXEC:./client (or whatever you named your file)
 
 If you did everything right, then you will get a response of 'Good Job!'. If you did something incorrectly, then you will get the response, 'OH NO!! Wrong answer!', and you will have to try again.

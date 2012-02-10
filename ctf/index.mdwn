@@ -17,10 +17,9 @@ Upcoming Events
 ===============
 
 * September 12-16 2011, California
-* September 17-18 2011, [HacKids](http://hackids.org/) San Jose (tentative)
 * October 17-21 2011, Idaho
 * [November 5-6 2011, New Mexico Collegiate CTF Invitational](2011-11-05-NMT/)
-* February 6-10 2012, Santa Fe, New Mexico
+* [February 6-10 2012, Tracer FIRE 4](http://csr.lanl.gov/tf/tf4.html)
 
 
 Past Events
@@ -28,7 +27,7 @@ Past Events
 
 * [August 2011, DEF CON](2011-08-Defcon)
 * July 2011, Bay Area, California
-* March 2011, Santa Fe, New Mexico
+* [March 7-10 2011, Tracer FIRE 3](http://csr.lanl.gov/tf/tf3.html)
 * [Februrary 2011, University of New Mexico](2011-02-UNM/)
 * [January 2011, Central Michigan University](2011-01-CMU/)
 * [October 2010, New Mexico Tech](2010-10-NMT/)
