@@ -1,7 +1,7 @@
 Title: Home
 
 <div class="figure">
-  <img src="science-sm.jpg" alt="Klakto">
+  <img src="science-200.jpg" alt="Klakto">
   <br/>
   A dirtbag making science.
 </div>

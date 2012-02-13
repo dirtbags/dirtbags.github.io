@@ -12,7 +12,7 @@ COPY += dirtbags.css
 COPY += gitweb.cgi gitweb.css gitweb.conf gitweb.header.xml git-logo.png
 
 # Images to scale
-IMAGES += science-sm.jpg
+IMAGES += science-200.jpg
 
 # Directories in which %.mdwn generates %.html
 PLAIN = .
@@ -41,8 +41,17 @@ $(DESTDIR)/%: %
 	@mkdir -p $(dir $@)
 	cp $< $@
 
-$(DESTDIR)/%-sm.jpg: %.jpg
+$(DESTDIR)/%-200.jpg: %.jpg
+	@mkdir -p $(dir $@)
 	jpegtopnm $< | pnmscale -xysize 200 200 | pnmtojpeg > $@
+
+$(DESTDIR)/%-800.jpg: %.jpg
+	@mkdir -p $(dir $@)
+	jpegtopnm $< | pnmscale -xysize 800 800 | pnmtojpeg > $@
+
+$(DESTDIR)/%-100.jpg: %.jpg
+	@mkdir -p $(dir $@)
+	jpegtopnm $< | pnmscale -xysize 100 100 | pnmtojpeg > $@
 
 $(DESTDIR)/tmp:
 	mkdir -p $@
