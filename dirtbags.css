@@ -13,14 +13,14 @@ body {
 
 /**** heading ****/
 
-h1:first-child {
+#title {
     text-transform: lowercase;
     font-size: 1.6em;
     padding: 3px;
     margin: 0 0 1em 70px;
 }
 
-h1:first-child:before {
+#title:before {
    color: #ddc;
    letter-spacing: -0.1em;
    content: "Dirtbags: ";

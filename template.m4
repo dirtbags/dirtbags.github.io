@@ -8,7 +8,7 @@ changequote(`<<<',`>>>')dnl
     <link rel="icon" type="image/png" href="/icon.png" />
   </head>
   <body>
-    <h1>TITLE</h1>
+    <h1 id="title">TITLE</h1>
 dnl BODY BEGIN
 divert(1)
 dnl BODY END
@@ -20,7 +20,7 @@ dnl FOOT BEGIN
         <li><a href="/tanks/">Tanks</a></li>
         <li><a href="/py-pcap.html">py-pcap</a></li>
         <li><a href="/tools/">Tools</a></li>
-        <li><a href="/gitweb.cgi">VCS</a></li>
+        <li><a href="/g.cgi">VCS</a></li>
       </ul>
     </nav>
 dnl FOOT END

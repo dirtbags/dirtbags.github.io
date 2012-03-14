@@ -26,7 +26,7 @@ cat <<EOD
         <li><a href="/">Home</a></li>
         <li><a href="/py-pcap.html">py-pcap</a></li>
         <li><a href="/tools/">Tools</a></li>
-        <li><a href="/gitweb.cgi">VCS</a></li>
+        <li><a href="/g.cgi">VCS</a></li>
       </ul>
     </div>
   </body>

@@ -1,0 +1,14 @@
+project-list=/srv/www/dirtbags.net/projects/dirtbags.txt
+
+snapshots=zip tar.gz
+clone-url=http://dirtbags.net/projects/$CGIT_REPO_URL
+scan-path=/srv/www/dirtbags.net/projects
+virtual-root=/g.cgi/
+css=/cgit.css
+
+root-title=Dirtbags git projects
+root-desc=
+
+logo=
+footer=/srv/www/dirtbags.net/footer.html
+

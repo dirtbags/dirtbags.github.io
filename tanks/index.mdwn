@@ -31,13 +31,13 @@ PostScript.
 Download
 --------
 
-You may [read the source code](http://dirtbags.net/gitweb.cgi?p=tanks)
+You may [read the source code](http://dirtbags.net/g.cgi/tanks)
 in your web browser if you prefer.  The original [Python
-version](http://dirtbags.net/gitweb.cgi?p=pytanks) from 2010 is also
+version](http://dirtbags.net/g.cgi/pytanks) from 2010 is also
 available.
 
-* [Development version](http://dirtbags.net/gitweb.cgi?p=tanks;a=snapshot;h=master;sf=tgz)
-* [Version 1.0](http://dirtbags.net/gitweb.cgi?p=tanks;a=snapshot;h=1.0;sf=tgz)
+* [Development version](http://dirtbags.net/g.cgi/tanks/snapshot/tanks-master.tar.gz)
+* [Version 1.0](http://dirtbags.net/g.cgi/tanks/snapshot/tanks-1.0.tar.gz)
 
 To clone the git project:
 

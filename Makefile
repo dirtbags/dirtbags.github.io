@@ -1,6 +1,6 @@
 DESTDIR = /srv/www/dirtbags.net
 
-TEMPLATE = template.html.m4
+TEMPLATE = template.m4
 MDWNTOHTML = ./mdwntohtml $(TEMPLATE)
 
 # HTML to be generated
@@ -9,7 +9,8 @@ HTML = index.html
 # Things to copy
 COPY += grunge.png icon.png
 COPY += dirtbags.css
-COPY += gitweb.cgi gitweb.css gitweb.conf gitweb.header.xml git-logo.png
+#COPY += gitweb.cgi gitweb.css gitweb.conf gitweb.header.xml git-logo.png
+COPY += g.cgi cgit.css cgitrc
 
 # Images to scale
 IMAGES += science-200.jpg
@@ -17,11 +18,8 @@ IMAGES += science-200.jpg
 # Directories in which %.mdwn generates %.html
 PLAIN = .
 
-# Git projects to link in
-PROJECTS = tanks pytanks py-pcap
-
 # Other targets for "make all"
-TARGETS = html copy images projects $(DESTDIR)/tmp $(DESTDIR)/footer.xml
+TARGETS = html copy images $(DESTDIR)/projects $(DESTDIR)/footer.html
 
 all: default
 
@@ -33,8 +31,7 @@ $(DESTDIR)/%.html: %.mdwn $(TEMPLATE)
 	@mkdir -p $(dir $@)
 	$(MDWNTOHTML) < $< > $@
 
-$(DESTDIR)/projects/%: /home/neale/projects/%
-	@mkdir -p $(@D)
+$(DESTDIR)/projects: /home/neale/projects
 	ln -sf $< $@
 
 $(DESTDIR)/%: %
@@ -56,9 +53,11 @@ $(DESTDIR)/%-100.jpg: %.jpg
 $(DESTDIR)/tmp:
 	mkdir -p $@
 
-$(DESTDIR)/footer.xml: $(TEMPLATE)
+$(DESTDIR)/footer.html: $(TEMPLATE)
 	awk '(/FOOT/) { a += 1; next; } (a == 1) { print; }' $< > $@
 
+$(DESTDIR)/g.cgi: g.cgi.c
+	$(CC) -o $@ $<
 
 default: $(TARGETS)
 

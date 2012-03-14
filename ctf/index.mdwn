@@ -6,6 +6,11 @@ network or host forensics, binary reverse engineering, incident
 response, network or systems administration, secure coding, rapid code
 prototyping, penetration testing, and much more.
 
+Unlike most CTF exercises, our event does not typically have attack/defend
+roles.  Instead, teams usually compete to solve problems quickly and
+move on to the next one.  This is a result of the forensic nature of our
+primary event: [Tracer FIRE](http://csr.lanl.gov/tf/).
+
 Introduction
 ============
 
@@ -16,16 +21,23 @@ before committing, [try our tutorials](tutorial/).
 Upcoming Events
 ===============
 
-* September 12-16 2011, California
-* October 17-21 2011, Idaho
-* [November 5-6 2011, New Mexico Collegiate CTF Invitational](2011-11-05-NMT/)
-* [February 6-10 2012, Tracer FIRE 4](http://csr.lanl.gov/tf/tf4.html)
+* Spring 2012, Bay Area, California
+* April 16-30 2012, Dallas
+* April 20-21 2012, University of Washington
+* July 26-29 2012, DEF CON 20
+* August 2012, District of Columbia
+* September/October 2012, New Mexico Tech
+* February 4-8 2013, Santa Fe NM, Tracer FIRE [567]
 
 
 Past Events
 ===========
 
-* [August 2011, DEF CON](2011-08-Defcon)
+* [February 6-10 2012, Tracer FIRE 4](2012-02-TF4/)
+* [November 5-6 2011, New Mexico Collegiate CTF Invitational](2011-11-05-NMT/)
+* October 17-21 2011, Idaho
+* September 12-16 2011, California
+* [August 2011, DEF CON 19](2011-08-Defcon/)
 * July 2011, Bay Area, California
 * [March 7-10 2011, Tracer FIRE 3](http://csr.lanl.gov/tf/tf3.html)
 * [Februrary 2011, University of New Mexico](2011-02-UNM/)
