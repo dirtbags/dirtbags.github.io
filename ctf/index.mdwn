@@ -21,19 +21,19 @@ before committing, [try our tutorials](tutorial/).
 Upcoming Events
 ===============
 
-* April 16-30 2012, Dallas
-* April 20-21 2012, University of Washington
-* May 14-16 2012, Bay Area, California
-* July 26-29 2012, DEF CON 20
-* August 6-10 2012, District of Columbia, Tracer FIRE 4E
 * September/October 2012, New Mexico Tech
 * October 2012, District of Columbia
-* February 4-8 2013, Santa Fe NM, Tracer FIRE [567]
+* December 2012, District of Columbia
+* February 4-8 2013, Santa Fe NM, Tracer FIRE 5
 
 
 Past Events
 ===========
 
+* [July 26-29 2012, DEF CON 20](2012-07-Defcon/)
+* April 20-21 2012, University of Washington
+* April 16-30 2012, Dallas
+* May 21-23 2012, Bay Area, California
 * [February 6-10 2012, Tracer FIRE 4](2012-02-TF4/)
 * [November 5-6 2011, New Mexico Collegiate CTF Invitational](2011-11-05-NMT/)
 * October 17-21 2011, Idaho
