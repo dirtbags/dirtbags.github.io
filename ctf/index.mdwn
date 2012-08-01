@@ -21,12 +21,13 @@ before committing, [try our tutorials](tutorial/).
 Upcoming Events
 ===============
 
-* Spring 2012, Bay Area, California
 * April 16-30 2012, Dallas
 * April 20-21 2012, University of Washington
+* May 14-16 2012, Bay Area, California
 * July 26-29 2012, DEF CON 20
-* August 2012, District of Columbia
+* August 6-10 2012, District of Columbia, Tracer FIRE 4E
 * September/October 2012, New Mexico Tech
+* October 2012, District of Columbia
 * February 4-8 2013, Santa Fe NM, Tracer FIRE [567]
 
 

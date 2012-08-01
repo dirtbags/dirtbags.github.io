@@ -6,7 +6,7 @@ Title: 2010 Capture The Flag @ New Mexico Tech
 
 Winning team: Spring Loaded Flying Intestines
 
-I'll have a screenshot of the final scoreboard posted soon.  In the
+I'll have a screenshot of the final scoreboard posted someday.  In the
 meantime, have a look at the [nice article in El
-Defensor-Chieftan](http://www.dchieftain.com/dc/index.php/news/2365-hackers-pwn-techs-fidel-center-for-two-days.html)!
+Defensor-Chieftan](http://www.dchieftain.com/2010/11/06/hackers-pwn-techs-fidel-center-for-two-days).
 
