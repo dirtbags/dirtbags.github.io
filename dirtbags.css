@@ -1,12 +1,12 @@
 /**** document ****/
 
 html {
-    background: #112 url(grunge.png) repeat-x;
+    background: #eed url(grunge.png) repeat-x;
 }
 
 body {
     font-family: sans-serif;
-    color: #ddc;
+    color: #112;
     padding: 10px;
     max-width: 700px;
 }
@@ -17,11 +17,11 @@ body {
     text-transform: lowercase;
     font-size: 1.6em;
     padding: 3px;
-    margin: 0 0 1em 70px;
+    margin: 0 0 1em 2em;
 }
 
 #title:before {
-   color: #ddc;
+   color: #999;
    letter-spacing: -0.1em;
    content: "Dirtbags: ";
 }
@@ -70,18 +70,18 @@ a:hover {
 
 
 h1, h2, h3 {
-    color: #999;
+    color: #464;
     letter-spacing: -0.05em;
 }
 
 .readme {
-    background-color: #555;
+    background-color: #ccc;
     margin: 1em;
 }
 
 pre {
-    background-color: #222;
-    border: solid #ccc 2px;
+    background-color: #ccc;
+    border: solid #888 2px;
     padding: 0.25em;
 }
 
@@ -98,7 +98,6 @@ td {
 p {
     line-height: 1.4em;
     margin-bottom: 20px;
-    color: #f4f4f4;
 }
 
 hr {

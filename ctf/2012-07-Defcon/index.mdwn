@@ -16,4 +16,6 @@ Nearly every puzzle was solved this year!  This means we are going to
 have to do a lot of work in the next 12 months.  We're happy people
 enjoyed the contest and look forward to confounding you again in 2013.
 
-If anybody does a write-up, we'd love to link to it!
+* [Scoreboard](scoreboard.html)
+* [AST Cell's Photos](http://www.hackerphotos.com/index.php/defcon/Defcon-20/AST_5138)
+* If anybody does a write-up, we'd love to link or host it!
