@@ -24,6 +24,6 @@ To use it:
 Enjoy.
 
 Version 1.0 is available at
-<http://dirtbags.net/gitweb.cgi?p=py-pcap;a=snapshot;h=1.0;sf=tgz>
+<http://dirtbags.net/g.cgi/py-pcap/snapshot/py-pcap-1.0.zip>
 
 <zephyr@dirtbags.net>
