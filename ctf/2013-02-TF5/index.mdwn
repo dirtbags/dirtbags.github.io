@@ -20,7 +20,7 @@ Highlights included:
 	[finally found the repository](http://hackucf.org/blog/tracerfire-5-project-2-host-275100-wopr-17/)
 	and claimed every point possible in two categories just before the event closed.
 * Due to a build error,
-	the "steg" category was unsolvable­or so we initially thought.
+	the "steg" category was unsolvable; or so we initially thought.
 	One team picked up on an offhand comment Neale made in IRC
 	about what the page was supposed to contain,
 	matched that up with a puzzle from the "indy" category,
