@@ -15,21 +15,21 @@ Introduction
 ============
 
 If a Dirtbags event is coming to your area and you'd like to know more
-before committing, [try our tutorials](tutorial/).
+before committing, [try our tutorials](tutorial/),
+or check the links on some of our past events.
 
 
 Upcoming Events
 ===============
 
-* September/October 2012, New Mexico Tech
-* October 2012, District of Columbia
-* December 2012, District of Columbia
-* February 4-8 2013, Santa Fe NM, Tracer FIRE 5
+* July 2013, DEF CON 21
+* February 2013, Tracer FIRE 6
 
 
 Past Events
 ===========
 
+* [February 4-8 2013, Santa Fe NM, Tracer FIRE 5](2013-02-TF5/)
 * [July 26-29 2012, DEF CON 20](2012-07-Defcon/)
 * April 20-21 2012, University of Washington
 * April 16-30 2012, Dallas
