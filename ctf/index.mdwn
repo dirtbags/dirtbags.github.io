@@ -27,7 +27,7 @@ Upcoming Events
 Past Events
 ===========
 
-* [August 2013, DEF CON 21](2012-07-Defcon/)
+* [August 2013, DEF CON 21](2013-07-Defcon/)
 * July 22-25 2013, [Teen College](http://losalamos.unm.edu/community-education/for-younger-students.html), UNM-LA
 * July 2013, [Tech Frontiers](http://losalamos.unm.edu/students/tech-frontiers/), UNM-LA
 * [February 4-8 2013, Tracer FIRE 5 Online](2013-02-TF5/)
