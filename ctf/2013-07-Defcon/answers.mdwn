@@ -1,6 +1,6 @@
-Title: DC21 Hashes of Solved Puzzles
+Title: Defcon 21 Hashes of Solved Puzzles
 
-At DC 21, many requests were made to get the answers of released puzzles.  In
+At Defcon 21, many requests were made to get the answers of released puzzles.  In
 the effort to keep these puzzles fresh for other contests, we decided to
 release sha1 hashes.
 
@@ -11,8 +11,6 @@ To check your answer on a *nix box, you can test your answer to nocode 1 by ente
 
 If you are unable to do this, you can also check your answer by visiting
 [an online sha1 generator](http://hash.online-convert.com/sha1-generator)
-
-Anyway, you are probably more interested in this:
 
     CATEGORY    POINTVALUE URL                 SHA1SUM
     
