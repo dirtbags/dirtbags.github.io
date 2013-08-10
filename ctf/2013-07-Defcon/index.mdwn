@@ -23,4 +23,5 @@ the week after DC21, so prepare yourself for new puzzles in some interesting
 subjects in 2014.
 
 * [Scoreboard](scoreboard.html)
+* [Hashes of answers to puzzles](answers.html)
 * If anybody does a write-up, we'd love to link or host it!
