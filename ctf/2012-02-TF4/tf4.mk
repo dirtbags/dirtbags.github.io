@@ -9,5 +9,5 @@ HTML += $(TF4)/photos/index.html
 
 COPY += $(TF4)/scoreboard.html $(TF4)/scoreboard.js $(TF4)/ctf.css $(TF4)/smoke.jpg
 
-$(DESTDIR)/$(TF4)/index.html: images album.sh
+$(DESTDIR)/$(TF4)/photos/index.html: images album.sh
 	./album.sh $(TF4)/photos "Tracer Fire 4" > $@

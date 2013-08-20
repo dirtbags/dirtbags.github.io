@@ -1,4 +1,4 @@
-DESTDIR = /srv/www/dirtbags.net
+DESTDIR = /srv/http/dirtbags.net
 
 TEMPLATE = template.m4
 MDWNTOHTML = ./mdwntohtml $(TEMPLATE)
