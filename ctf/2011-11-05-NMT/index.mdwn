@@ -31,16 +31,6 @@ inevitably benefit from sheer volume, small teams can still make
 significant progress.  Please register your team as soon as possible,
 so we can reserve adequate space for the event.
 
-<form action="../register.cgi">
-<fieldset>
-  <legend>Team Registration</legend>
-  <input type="hidden" name="event" value="2011-11-NMT">
-  Team name: <input name="team"><br>
-  Team size: <input name="size"><br>
-  Contact email (for announcements): <input name="email"><br>
-  <input type="submit">
-</fieldset>
-</form>
 
 
 CTF Chat

@@ -27,16 +27,6 @@ Although larger teams inevitably benefit from sheer volume, small teams
 can make significant headway.  We allow teams to join up before or
 during the contest.
 
-To register your team, just submit this form.
-
-<form action="../register.cgi">
-<input type="hidden" name="event" value="2011-02-NMT">
-Team name: <input name="team"><br>
-Team size: <input name="size"><br>
-Contact email (for announcements): <input name="email"><br>
-<input type="submit">
-</form>
-
 
 
 CTF Chat
