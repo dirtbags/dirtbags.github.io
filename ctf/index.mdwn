@@ -22,14 +22,16 @@ or check the links on some of our past events.
 Upcoming Events
 ===============
 
-* February 2014, Tracer FIRE 6
+* July 16, 2014, NM Supercomputing Challenge Summer Institute
+* [July 21-25 2014, Teen College](http://losalamos.unm.edu/community-education/)
+* August 2014, DEF CON 22
 
 Past Events
 ===========
 
 * [August 2013, DEF CON 21](2013-07-Defcon/)
-* July 22-25 2013, [Teen College](http://losalamos.unm.edu/community-education/for-younger-students.html), UNM-LA
-* July 2013, [Tech Frontiers](http://losalamos.unm.edu/students/tech-frontiers/), UNM-LA
+* [July 22-25 2013, Teen College](http://losalamos.unm.edu/community-education/for-younger-students.html), UNM-LA
+* [July 2013, Tech Frontiers](http://losalamos.unm.edu/students/tech-frontiers/), UNM-LA
 * [February 4-8 2013, Tracer FIRE 5 Online](2013-02-TF5/)
 * [July 26-29 2012, DEF CON 20](2012-07-Defcon/)
 * April 20-21 2012, University of Washington
