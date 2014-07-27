@@ -41,4 +41,4 @@ available.
 
 To clone the git project:
 
-    git clone http://dirtbags.net/projects/tanks
+    git clone http://dirtbags.net/projects/ctf/tanks
