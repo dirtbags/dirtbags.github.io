@@ -33,7 +33,7 @@ compile () {
 install () {
 	fd=$(dirname $fn)
 	echo "SUBINSTALL $fd"
-	(cd $fd && DESTDIR=$DESTDIR/$fd ./install)
+	(cd $fd && ./install $DESTDIR/$fd)
 }
 
 

@@ -2,18 +2,6 @@
 
 DESTDIR=${1:-/srv/http/dirtbags.net/shs}
 
-older () {
-	target=$1; shift
-	[ -f $target ] || return 0
-	
-	for i in "$@"; do
-		[ $i -nt $target ] && return 0
-	done
-	
-	return 1
-}
-
-
 if older $DESTDIR/duck.png install duck.pnm; then
 	echo "MAKE duck.png"
 	pnmtopng duck.pnm > $DESTDIR/duck.png
