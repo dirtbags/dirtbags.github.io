@@ -1,0 +1,25 @@
+#! /bin/sh
+
+DESTDIR=${DESTDIR:-/srv/www/dirtbags.net/shs}
+
+older () {
+	target=$1; shift
+	[ -f $target ] || return 0
+	
+	for i in "$@"; do
+		[ $i -nt $target ] && return 0
+	done
+	
+	return 1
+}
+
+
+if older $DESTDIR/duck.png duck.pnm; then
+	echo "MAKE duck.png"
+	pnmtopng duck.pnm > $DESTDIR/duck.png
+fi
+
+if older $DESTDIR/stegduck.png duck.pnm declaration.txt pnmsteg.py; then
+	echo "MAKE stegduck.png"
+	./pnmsteg.py declaration.txt < duck.pnm | pnmtopng > $DESTDIR/stegduck.png
+fi

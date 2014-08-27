@@ -16,7 +16,7 @@ dnl FOOT BEGIN
     <nav>
       <ul>
         <li><a href="/">Home</a></li>
-        <li><a href="/ctf/" title="Capture The Flag">CTF</a></li>
+        <li><a href="/contest/" title="Forensic Contest">Contest</a></li>
         <li><a href="/tanks/">Tanks</a></li>
         <li><a href="/py-pcap.html">py-pcap</a></li>
         <li><a href="/tools/">Tools</a></li>

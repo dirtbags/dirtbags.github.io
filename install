@@ -1,0 +1,68 @@
+#! /bin/sh
+
+DESTDIR=${1:-/srv/http/dirtbags.net}
+
+cd $(dirname $0)
+
+older () {
+	target=$1; shift
+	[ -f $target ] || return 0
+	
+	for i in "$@"; do
+		[ $i -nt $target ] && return 0
+	done
+	
+	return 1
+}
+
+html () {
+	target=$DESTDIR/${1%mdwn}html
+	if older $target $1 template.m4; then
+		echo "HTML $1"
+		mkdir -p $(dirname $target)
+		./mdwntohtml template.m4 < $1 > $target
+	fi
+}
+
+copy () {
+	target=$DESTDIR/$1
+	if older $target $1; then
+		echo "COPY $1"
+		mkdir -p $(dirname $target)
+		cp $1 $target
+	fi
+}
+
+compile () {
+	target=$DESTDIR/${1%.c}
+	if older $target $1; then
+		echo "COMP $1"
+		gcc -o $target $1
+	fi
+}
+
+install () {
+	fd=$(dirname $fn)
+	echo "SUBINSTALL $fd"
+	(cd $fd && DESTDIR=$DESTDIR/$fd ./install)
+}
+
+
+git ls-files | while read fn; do
+	case "$fn" in
+	.*|*/.*|*~|install)
+		;;
+	*/install)
+		install $fn
+		;;
+	*.mdwn)
+		html $fn
+		;;
+	*.cgi.c)
+		compile $fn
+		;;
+	*)
+		copy $fn
+		;;
+	esac
+done
