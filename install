@@ -4,17 +4,6 @@ DESTDIR=${1:-/srv/http/dirtbags.net}
 
 cd $(dirname $0)
 
-older () {
-	target=$1; shift
-	[ -f $target ] || return 0
-	
-	for i in "$@"; do
-		[ $i -nt $target ] && return 0
-	done
-	
-	return 1
-}
-
 html () {
 	target=$DESTDIR/${1%mdwn}html
 	if older $target $1 template.m4; then
