@@ -1,6 +1,6 @@
 #! /bin/sh
 
-DESTDIR=${DESTDIR:-/srv/www/dirtbags.net/shs}
+DESTDIR=${1:-/srv/http/dirtbags.net/shs}
 
 older () {
 	target=$1; shift
@@ -14,12 +14,12 @@ older () {
 }
 
 
-if older $DESTDIR/duck.png duck.pnm; then
+if older $DESTDIR/duck.png install duck.pnm; then
 	echo "MAKE duck.png"
 	pnmtopng duck.pnm > $DESTDIR/duck.png
 fi
 
-if older $DESTDIR/stegduck.png duck.pnm declaration.txt pnmsteg.py; then
+if older $DESTDIR/stegduck.png install duck.pnm declaration.txt pnmsteg.py; then
 	echo "MAKE stegduck.png"
 	./pnmsteg.py declaration.txt < duck.pnm | pnmtopng > $DESTDIR/stegduck.png
 fi
