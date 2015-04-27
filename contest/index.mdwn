@@ -1,4 +1,4 @@
-Title: Forensec Contest
+Title: Forensic Contest
 
 We run computer security trainings and contests for high schools,
 colleges, and professionals.  Our events can focus on any combination of
@@ -22,16 +22,19 @@ or check the links on some of our past events.
 Upcoming Events
 ===============
 
-* [November 15 2014, New Mexico Science Teachers' Association Fall Conference](http://www.nmsta.org/events/2014conference/)
-* DEF CON 23
+* [June 1-5, Tracer FIRE 6E](http://csr.lanl.gov/tf/), Reston Hyatt, Virginia
+* [June 20, Queen Of The Hill](http://qoth.net/), UNM-LA
 
 
 Past Events
 ===========
 
-* August 2014, DEF CON 22
+* [April 21-23, Tracer FIRE 6M](2015-04-TF6M/), Kansas City, Missouri
+* [November 15 2014, New Mexico Science Teachers' Association Fall Conference](http://www.nmsta.org/events/2014conference/)
+* October 11 2014, NM Supercomputing Challenge Kickoff
+* August 2014 DEF CON 22
 * [July 21-25 2014, Teen College](http://losalamos.unm.edu/community-education/)
-* July 16, 2014, NM Supercomputing Challenge Summer Institute
+* July 16 2014, NM Supercomputing Challenge Summer Institute
 * [August 2013, DEF CON 21](2013-07-Defcon/)
 * [July 22-25 2013, Teen College](http://losalamos.unm.edu/community-education/for-younger-students.html), UNM-LA
 * [July 2013, Tech Frontiers](http://losalamos.unm.edu/students/tech-frontiers/), UNM-LA

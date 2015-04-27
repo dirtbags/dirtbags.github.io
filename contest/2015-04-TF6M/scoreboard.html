@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Scoreboard</title>
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<style>
+#info {
+	max-width: 20em;
+	position: absolute;
+	opacity: 0.8;
+	bottom: 1em;
+	right: 10em;
+	text-align: center;
+}
+		</style>
+		<script src="scoreboard.js" async></script>
+		<script>
+function init() {
+	var sb = document.getElementById("scoreboard");
+	scoreboard(sb, true);
+}
+
+window.addEventListener("load", init);
+		</script>
+	</head>
+	<body>
+		<h1>Tracer FIRE</h1>
+		<div id="scoreboard"></div>
+	</body>
+</html>

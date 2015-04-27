@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Scoreboard</title>
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<style>
+#info {
+	max-width: 20em;
+	position: absolute;
+	opacity: 0.8;
+	bottom: 1em;
+	right: 10em;
+	text-align: center;
+}
+		</style>
+		<script src="scoreboard.js" async></script>
+		<script>
+function init() {
+	var sb = document.getElementById("scoreboard");
+	scoreboard(sb, true);
+}
+
+window.addEventListener("load", init);
+		</script>
+	</head>
+	<body>
+		<h1>Tracer FIRE</h1>
+		<div id="scoreboard"></div>
+		<div id="info">
+			<section>
+				<h2>Get Started</h2>
+				
+				<p>
+					Connect to <samp>TracerFIRE</samp>
+					WiFi,
+					and open
+					http://tf.lan/
+				</p>
+			</section>
+			
+			<section>
+			<h2>About</h2>
+			<p>
+				Tracer FIRE is a
+				learn-as-you-go
+				cybersecurity training and exercise.
+				This is the
+				diet version
+				of our regular FIRE.
+			</p>
+			
+			<p>
+				We will be running a full-size
+				Tracer FIRE
+				on June 1-6
+				in Reston, VA.
+				More details at
+				<a href="http://csr.lanl.gov/tf/">http://csr.lanl.gov/tf/</a>
+			</p>
+			</section>
+		</div>
+	</body>
+</html>
