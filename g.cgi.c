@@ -4,7 +4,7 @@
 
 #define GIT_PROJECT_ROOT "/srv/http/dirtbags.net/projects/"
 #define CGIT_CONFIG "/srv/http/dirtbags.net/cgitrc"
-#define CGIT "/usr/lib/cgit/cgit.cgi"
+#define CGIT "/opt/cgit/cgit.cgi"
 
 int
 main(int argc, char *argv[])

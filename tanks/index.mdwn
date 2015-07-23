@@ -42,3 +42,12 @@ available.
 To clone the git project:
 
     git clone http://dirtbags.net/projects/ctf/tanks
+
+Other Versions
+--------------
+
+Everybody loves tanks!
+If you've made a port or done something fun with it,
+please let me know and I'll link it here!
+
+* [Class Lab](https://github.com/Arctem/nmt_python_labs/tree/master/labs/project) at New Mexico Tech, by Russell White
