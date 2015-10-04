@@ -2,7 +2,7 @@ var editor;
 
 function outf(text) { 
     var mypre = document.getElementById("stdout"); 
-    mypre.innerHTML = mypre.innerHTML + text; 
+    mypre.textContent = mypre.textContent + text; 
 } 
 
 function builtinRead(x) {
@@ -16,27 +16,42 @@ function builtinRead(x) {
 // configure the output function
 // call Sk.importMainWithBody()
 function runit() {
-    document.getElementById("stdout").textContent = "";
-
+    var stdout = document.getElementById("stdout");
     var prog = editor.getValue();
 
+    stdout.textContent = "";
+    stdout.classList.remove("error");
+
+    localStorage.setItem("program", prog);
+
+    // This is why people hate JavaScript
     var myPromise = Sk.misceval.asyncToPromise(function() {
         return Sk.importMainWithBody("<stdin>", false, prog, true);
     });
     myPromise.then(function(mod) {
-        console.log('success');
-   },
-        function(err) {
-        console.log(err.toString());
-    });
+	// Do something on success
+    },
+		   function(err) {
+		       var e = document.createElement("span");
+		       e.textContent = err.toString();
+		       e.classList.add("error");
+		       stdout.appendChild(e);
+		   });
 }
 
 function init() {
+    var prog = localStorage.getItem("program");
+
     document.body.style.maxWidth="100%";
 
     editor = ace.edit("editor");
 //    editor.setTheme("ace/theme/twilight");
     editor.session.setMode("ace/mode/python");
+
+    if (prog) {
+	editor.setValue(prog);
+	editor.clearSelection();
+    }
 
     Sk.pre = "stdout";
     Sk.configure({output:outf, read:builtinRead});

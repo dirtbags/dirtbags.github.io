@@ -9,11 +9,32 @@
     <script src="skulpt-stdlib.js"></script> 
     <script src="ace.js"></script>
     <script src="index.js"></script>
+    <style>
+      body {
+        max-width: inherit;
+      }
+
+      #program, #output {
+      display: inline-block;
+      width: 40%;
+      vertical-align: top;
+      }
+
+      #editor {
+      min-width: 20em;
+      height: 20em;
+      }
+
+      .error {
+      font-weight: bold;
+      background-color: #ffcccc;
+      }
+    </style>
   </head>
   <body>
-    <div style="display: inline-block; float: left;">
+    <div id="program">
       <h1>Program</h1>
-      <pre id="editor" style="width: 50em; height: 20em;">import turtle
+      <pre id="editor">import turtle
 
 t = turtle.Turtle()
 t.forward(100)
@@ -24,7 +45,7 @@ print "Hello World"
       <button type="button" onclick="runit()">Run</button> 
     </div>
 
-    <div style="display: inline-block; float: right;">
+    <div id="output">
       <h1>Output</h1>
       <div id="turtlepen" style="border: solid black 1px;"></div>
       <pre id="stdout" style="border: solid black 1px; height: 5em; overflow: auto;"></pre> 
