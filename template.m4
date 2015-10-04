@@ -18,7 +18,7 @@ dnl FOOT BEGIN
         <li><a href="/">Home</a></li>
         <li><a href="/contest/" title="Forensic Contest">Contest</a></li>
         <li><a href="/tanks/">Tanks</a></li>
-        <li><a href="/py-pcap.html">py-pcap</a></li>
+        <li><a href="/python/">Python</a></li>
         <li><a href="/tools/">Tools</a></li>
         <li><a href="https://woozle.org/neale/g.cgi">VCS</a></li>
       </ul>

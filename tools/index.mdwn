@@ -13,6 +13,7 @@ Network Analysis Tools
 
 Other Useful Junk
 -----------------
+* [py-pcap](/py-pcap.html): Python PCAP file library
 * [zar](zar): Python Archiver, to get around SMTP filtering
 * [zdec](zdec): Base64/Hex/whatever decoder/encoder
 * [zpex](zpex): Extract Windows PE files from anything
