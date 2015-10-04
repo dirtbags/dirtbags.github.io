@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Python for Cool Kids</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/dirtbags.css">
+    <link rel="icon" href="/icon.png">
+    <script src="skulpt.min.js"></script> 
+    <script src="skulpt-stdlib.js"></script> 
+    <script src="ace.js"></script>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <div style="display: inline-block; float: left;">
+      <h1>Program</h1>
+      <pre id="editor" style="width: 50em; height: 20em;">import turtle
+
+t = turtle.Turtle()
+t.forward(100)
+
+print "Hello World"
+</pre>
+      <br>
+      <button type="button" onclick="runit()">Run</button> 
+    </div>
+
+    <div style="display: inline-block; float: right;">
+      <h1>Output</h1>
+      <div id="turtlepen" style="border: solid black 1px;"></div>
+      <pre id="stdout" style="border: solid black 1px; height: 5em; overflow: auto;"></pre> 
+    </div>
+
+  </body>
+</html>
