@@ -20,7 +20,7 @@ dnl FOOT BEGIN
         <li><a href="/tanks/">Tanks</a></li>
         <li><a href="/py-pcap.html">py-pcap</a></li>
         <li><a href="/tools/">Tools</a></li>
-        <li><a href="/g.cgi">VCS</a></li>
+        <li><a href="https://woozle.org/neale/g.cgi">VCS</a></li>
       </ul>
     </nav>
 dnl FOOT END

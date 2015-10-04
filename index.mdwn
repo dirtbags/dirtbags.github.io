@@ -10,7 +10,7 @@ Title: Home
 </script>
 <![endif]-->
 <div class="figure">
-  <img src="science-200.jpg" alt="Klakto">
+  <img src="science.jpg" style="width: 15em;" alt="Klakto">
   <br/>
   A dirtbag making science.
 </div>
