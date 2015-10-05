@@ -4,12 +4,18 @@ body {
 
 #program, #output {
     display: inline-block;
-    width: 40%;
+    width: 45%;
     vertical-align: top;
 }
 
+@media (max-width: 80em) {
+    #program, #output {
+	width: 40em;
+    }
+}
+
 #editor {
-    min-width: 20em;
+    min-width: 40em;
     height: 20em;
 }
 
