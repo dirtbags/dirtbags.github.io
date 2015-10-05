@@ -1,0 +1,28 @@
+body {
+    max-width: inherit;
+}
+
+#program, #output {
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+
+#editor {
+    min-width: 20em;
+    height: 20em;
+}
+
+.error {
+    font-weight: bold;
+    background-color: #ffcccc;
+}
+
+#turtlepen {
+}
+
+#stdout {
+    height: 5em;
+    overflow: auto;
+}
+

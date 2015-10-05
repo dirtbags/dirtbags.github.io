@@ -58,7 +58,7 @@ function init() {
     if (! Sk.TurtleGraphics) {
         Sk.TurtleGraphics = {};
     }
-    Sk.TurtleGraphics.target = "turtlepen";
+    Sk.TurtleGraphics.target = document.getElementById("turtlepen");
 }
 
 window.addEventListener('load', init);
