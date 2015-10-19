@@ -42,8 +42,6 @@ function runit() {
 function init() {
     var prog = localStorage.getItem("program");
 
-    document.body.style.maxWidth="100%";
-
     editor = ace.edit("editor");
 //    editor.setTheme("ace/theme/twilight");
     editor.session.setMode("ace/mode/python");

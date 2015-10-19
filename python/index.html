@@ -16,11 +16,16 @@
       <h1>Program</h1>
       <pre id="editor">import turtle
 
-t = turtle.Turtle()
-t.forward(100)
-t.right(90)
+print "Staring program..."
 
-print "Hello World"
+t = turtle.Turtle()
+for i in range(2):
+    t.forward(100)
+    t.right(90)
+
+t.color("green")
+
+print "Program finished!"
 </pre>
       <br>
       <button type="button" onclick="runit()">Run</button> 

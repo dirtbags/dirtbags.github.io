@@ -1,22 +1,36 @@
+html {
+    height: 100%;
+}
+
 body {
-    max-width: inherit;
+    height: calc(100% - 16px);
+    max-width: initial;
+    margin: 8px;
+    padding: 0;
 }
 
 #program, #output {
     display: inline-block;
-    width: 45%;
     vertical-align: top;
+    max-width: 40em;
 }
 
-@media (max-width: 80em) {
-    #program, #output {
-	width: 40em;
+#program {
+    width: 40em;
+    height: 90%;
+}
+
+@media (max-width: calc(40em + 400px)) {
+    #program {
+	width: 30em;
+    }
+    #output {
+	width: 400px;
     }
 }
 
 #editor {
-    min-width: 40em;
-    height: 20em;
+    height: calc(100% - 10em);
 }
 
 .error {
@@ -25,10 +39,12 @@ body {
 }
 
 #turtlepen {
+    width: 400px;
+    background-color: rgba(127, 127, 127, 0.2);
 }
 
 #stdout {
     height: 5em;
     overflow: auto;
+    font-size: 80%;
 }
-
