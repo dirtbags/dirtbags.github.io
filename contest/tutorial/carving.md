@@ -1,5 +1,5 @@
 ---
-title: CTF Tutorial: File carving
+title: "Contest Tutorial: File carving"
 ---
 
 Begin with the following image:

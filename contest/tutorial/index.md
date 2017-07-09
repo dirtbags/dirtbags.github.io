@@ -1,5 +1,5 @@
 ---
-title: CTF Tutorial
+title: Contest Tutorial
 ---
 
 Here are a few simple puzzles, a taste of the type of puzzles you're

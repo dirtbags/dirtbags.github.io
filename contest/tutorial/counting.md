@@ -1,5 +1,5 @@
 ---
-title: CTF Tutorial: counting
+title: "Contest Tutorial: Counting"
 ---
 
 Decimal
