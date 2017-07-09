@@ -3,13 +3,16 @@ title: Home
 ---
 
 <div class="figure">
-  <img src="science.jpg" style="width: 15em;" alt="Klakto">
+  <img src="assets/images/dirtbag.jpg" style="width: 15em;" alt="Klakto">
   <br/>
   A dirtbag making science.
 </div>
 
 The Dirtbags are a group of computer security professionals.  We provide
-[software](/g.cgi) and run [training/contests](/ctf/), focused primarily
+[software](https://github.com/dirtbags)
+and run
+[training/contests](/ctf/),
+focused primarily
 on forensic incident response.
 
 In addition to professional training, our contests are also suitable
