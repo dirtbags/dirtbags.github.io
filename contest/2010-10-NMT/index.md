@@ -1,4 +1,6 @@
-Title: 2010 Capture The Flag @ New Mexico Tech
+---
+title: 2010 Capture The Flag @ New Mexico Tech
+---
 
 *What:* Capture The Flag (CTF) competition  
 *Where:* Fidel Center Ballroom, New Mexico Tech, Socorro, NM  

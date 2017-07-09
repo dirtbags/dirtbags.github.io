@@ -1,4 +1,6 @@
-Title: 2011 Capture The Flag @ University of New Mexico
+---
+title: 2011 Capture The Flag @ University of New Mexico
+---
 
 *What:* Capture The Flag (CTF) competition  
 *Where:* Stamm Room, University of New Mexico, Albuquerque

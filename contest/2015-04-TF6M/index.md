@@ -1,4 +1,6 @@
-Title: Tracer Fire 6M
+---
+title: Tracer Fire 6M
+---
 
 Tracer Fire 6M was held April 21-23
 at the 2015 DOE Cybersecurity Training Conference

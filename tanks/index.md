@@ -1,4 +1,6 @@
-Title: Tanks
+---
+title: Tanks
+---
 
 <table class="figure">
   <caption>"Ant Lion" nails "Rabbit With Gun".</caption>

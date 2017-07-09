@@ -1,4 +1,6 @@
-Title: Summer Hacking School
+---
+title: Summer Hacking School
+---
 
 June 9 - July 28, 2010  
 7:00pm - 8:00pm  

@@ -1,4 +1,6 @@
-Title: 2011 New Mexico Collegiate CTF Invitational
+---
+title: 2011 New Mexico Collegiate CTF Invitational
+---
 
 *What:* Capture The Flag (CTF) competition  
 *Where:* Fidel Center Ballroom, New Mexico Tech, Socorro, NM  

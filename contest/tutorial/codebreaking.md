@@ -1,4 +1,6 @@
-Title: CTF Tutorial: Codebreaking
+---
+title: CTF Tutorial: Codebreaking
+---
 
 Early cryptography (before WWI) is fun to play with, and can often be
 worked out with pencil and paper.  This tutorial will focus on the

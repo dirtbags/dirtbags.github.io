@@ -1,4 +1,6 @@
-Title: CTF Introduction
+---
+title: CTF Introduction
+---
 
 Capture The Flag is an event we set up for solving computer security
 puzzles and engaging in creative exploration in a safe environment with

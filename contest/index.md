@@ -1,4 +1,6 @@
-Title: Forensic Contest
+---
+title: Forensic Contest
+---
 
 We run computer security trainings and contests for high schools,
 colleges, and professionals.  Our events can focus on any combination of

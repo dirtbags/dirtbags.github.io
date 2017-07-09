@@ -1,4 +1,6 @@
-Title: Social Engineering Class
+---
+title: Social Engineering Class
+---
 
 Topics covered:
 

@@ -1,4 +1,6 @@
-Title: Being Sneaky
+---
+title: Being Sneaky
+---
 
 Encryption
 ----------

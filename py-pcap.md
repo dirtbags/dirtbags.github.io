@@ -1,4 +1,6 @@
-Title: Python pcap file library
+---
+title: Python pcap file library
+---
 
 This is a pcap file reader and writer which doesn't need libpcap.  The
 read interface is similar to that of pcapy, but you can do things like

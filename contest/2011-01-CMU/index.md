@@ -1,4 +1,6 @@
-Title: 2011 Capture The Flag @ Central Michigan University
+---
+title: 2011 Capture The Flag @ Central Michigan University
+---
 
 *What:* Capture The Flag (CTF) competition  
 *Where:* Pearce Hall Room 424, Central Michigan University, Mount Pleasant, MI  

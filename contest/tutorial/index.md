@@ -1,4 +1,6 @@
-Title: CTF Tutorial
+---
+title: CTF Tutorial
+---
 
 Here are a few simple puzzles, a taste of the type of puzzles you're
 likely to find in our events.  We try to design puzzle categories to

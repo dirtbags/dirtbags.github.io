@@ -1,4 +1,6 @@
-Title: Project 2 @ Defcon 20
+---
+title: Project 2 @ Defcon 20
+---
 
 We ran the Project 2 contest at Defcon 20, July 26-29 2012.  The contest
 was designed to appeal to beginners, ramping up to puzzles which would

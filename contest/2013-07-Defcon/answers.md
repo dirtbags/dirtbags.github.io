@@ -1,4 +1,6 @@
-Title: Defcon 21 Hashes of Solved Puzzles
+---
+title: Defcon 21 Hashes of Solved Puzzles
+---
 
 At Defcon 21, many requests were made to get the answers of released puzzles.  In
 the effort to keep these puzzles fresh for other contests, we decided to

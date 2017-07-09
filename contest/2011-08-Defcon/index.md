@@ -1,4 +1,6 @@
-Title: Dirtbags @ Defcon 19
+---
+title: Dirtbags @ Defcon 19
+---
 
 Project 2
 ---------

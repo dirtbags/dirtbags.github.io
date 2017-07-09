@@ -1,4 +1,6 @@
+---
 Defcon
+---
 ------
 
 We go to [Defcon](http://defcon.org/).

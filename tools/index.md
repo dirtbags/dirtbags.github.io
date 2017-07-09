@@ -1,4 +1,6 @@
-Title: Assorted tools
+---
+title: Assorted tools
+---
 
 Here are some little programs that are either too small or too
 self-explanatory to deserve their own web pages.
