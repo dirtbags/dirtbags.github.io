@@ -15,11 +15,10 @@ and run
 focused primarily
 on forensic incident response.
 
-Software
---------
+Major Projects
+--------------
 
 * [PcapDB](https://github.com/dirtbags/pcapdb/): A Distributed, Search-Optimized Full Packet Capture System
-* [Python for Cool Kids](/python/): gives you a Python development environment right in your browser
 * [fluffy suite](/fluffy/): Network Archaeology tools
 * [Dirtbags Tanks](/tanks/): program tanks in Forf, a PostScript derivative
 * [Projects on Github](https://github.com/dirtbags)
@@ -29,3 +28,8 @@ Training/Contest
 
 * [Contest Overview](/contest/)
 * [Example Puzzles](/contest/tutorial/)
+
+Python for Cool Kids
+--------------------
+
+* [Python IDE](/js-python/) provides a browser-based Python development environment for teaching
