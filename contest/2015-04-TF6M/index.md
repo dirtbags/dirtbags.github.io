@@ -11,5 +11,4 @@ preview version of Tracer FIRE.
 
 You may view a [snapshot of the scoreboard](scoreboard.html).
 
-I also have a few [photos](photos/) taken at the event.
 
