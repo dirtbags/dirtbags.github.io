@@ -56,7 +56,7 @@ Past Events
 * [January 2011: Central Michigan University](2011-01-CMU/)
 * [October 2010: New Mexico Tech](2010-10-NMT/)
 * October 2010: Washington State
-* Spring 2010: New Mexico Café Scientifique; also see [Summer Hacking School](/shs/)
+* Spring 2010: New Mexico Café Scientifique; also see [Summer Hacking School](shs/)
 * May 2010: DOE Cybersecurity Conference, Atlanta, Georgia
 * February 2010: Tracer FIRE 2, Buffalo Thunder, New Mexico
 * [October 2009: New Mexico Tech](2009-10-NMT/)

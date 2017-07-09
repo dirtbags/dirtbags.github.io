@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div class="figure">
-  <img src="assets/images/dirtbag.jpg" style="width: 15em;" alt="Klakto">
+  <img src="assets/images/dirtbag.png" style="width: 15em;" alt="Klakto">
   <br/>
   A dirtbag making science.
 </div>
@@ -15,8 +15,17 @@ and run
 focused primarily
 on forensic incident response.
 
-In addition to professional training, our contests are also suitable
-for college and high school students.  Our 4-hour to 2-day events
-help create interest in digital forensics and general computer science.
-Read about [past events](/ctf/) or [contact us](mailto:zephyr@dirtbags.net)
-to discuss hosting a dirtbags event at your school.
+Software
+--------
+
+* [PcapDB](https://github.com/pcapdb/): A Distributed, Search-Optimized Full Packet Capture System
+* [Python for Cool Kids](/python/): gives you a Python development environment right in your browser
+* [fluffy suite](/fluffy/): Network Archaeology tools
+* [Dirtbags Tanks](/tanks/): program tanks in Forf, a PostScript derivative
+* [Projects on Github](https://github.com/dirtbags)
+
+Training/Contest
+----------------
+
+* [Contest Overview](/contest/)
+* [Example Puzzles](/contest/tutorial/)
