@@ -1,5 +1,5 @@
 ---
-title: CTF Tutorial: Scripting
+title: "Contest Tutorial: Scripting"
 ---
 
 So, you've run into a problem with a task you've been asked to complete. Your boss wants you to gather information from a database. Sounds easy enough. Unfortunately, you only have 3 seconds to gather all the information before it disappears forever. How on earth are you going to be able to manually gather millions upon millions of data in a matter of 3 seconds?

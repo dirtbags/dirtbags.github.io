@@ -1,5 +1,5 @@
 ---
-title: CTF Tutorial: Codebreaking
+title: "Contest Tutorial: Codebreaking"
 ---
 
 Early cryptography (before WWI) is fun to play with, and can often be

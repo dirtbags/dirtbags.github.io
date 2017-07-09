@@ -1,9 +1,9 @@
 ---
-title: CTF Introduction
+title: Contest Introduction
 ---
 
-Capture The Flag is an event we set up for solving computer security
-puzzles and engaging in creative exploration in a safe environment with
+We created the event to allow participats to try solving computer security
+puzzles, and to engage in creative exploration in a safe environment with
 reduced consequences for activities generally considered malicious or
 illegal.  By providing a safe place to explore, defenders are better
 able to learn what kinds of techniques they might need to defend
@@ -13,7 +13,7 @@ against.
 Categories
 ==========
 
-Our CTF exercises feature multiple categories, which are typically not
+Our exercises feature multiple categories, which are typically not
 related to each other.  Each category exercises a particular skillset.
 For instance, a contest may feature codebreaking, file carving, rapid
 code development, and Unix system administration.  Categories are either
@@ -40,7 +40,7 @@ Scoring
 
 The objective is to make the most points.
 
-In our CTF setup, each team is battling for a percentage of one point in
+In our setup, each team is battling for a percentage of one point in
 each active category, and percentages are added to obtain an overall
 score for each team.  This setup rewards breadth and not depth: your
 score will be higher initially if you solve one puzzle in four
@@ -76,5 +76,5 @@ In our preferred setup, we dim the room lighting and play and no-vocals
 "unts unts" electronic music.  We prefer banquet-style seating: round
 tables that seat up to ten, with wired connections to the contest
 network on a "head table".  We don't always get the setup we'd prefer,
-though, and have run CTFs in almost every setup imaginable, from
+though, and have run events in almost every setup imaginable, from
 classrooms to computer labs to dance floors.
