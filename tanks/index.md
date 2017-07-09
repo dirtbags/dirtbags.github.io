@@ -30,20 +30,12 @@ or firing.
 Tanks are programmed in Forf, a stack-based language similar to
 PostScript.
 
+
 Download
 --------
 
-You may [read the source code](http://dirtbags.net/g.cgi/ctf/tanks)
-in your web browser if you prefer.  The original [Python
-version](http://dirtbags.net/g.cgi/ctf/pytanks) from 2010 is also
-available.
+Visit [tanks on github](https://github.com/dirtbags/tanks)
 
-* [Development version](http://dirtbags.net/g.cgi/ctf/tanks/snapshot/tanks-master.tar.gz)
-* [Version 1.0](http://dirtbags.net/g.cgi/ctf/tanks/snapshot/tanks-1.0.tar.gz)
-
-To clone the git project:
-
-    git clone http://dirtbags.net/projects/ctf/tanks
 
 Email List
 ----------
@@ -52,6 +44,7 @@ There are many people doing interesting things with tanks.
 If you'd like to talk to them,
 you're encouraged to
 [join the email list](https://groups.google.com/forum/#!forum/tanks).
+
 
 Other Versions
 --------------

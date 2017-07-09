@@ -2,20 +2,27 @@
 title: Assorted tools
 ---
 
-Here are some little programs that are either too small or too
+Small programs that are either too small or too
 self-explanatory to deserve their own web pages.
 
-Network Analysis Tools
+
+Network Achaeology Tools
 ----------------------
-* [xor.c](xor.c): Apply an xor mask to stdin
-* [unhex.c](unhex.c): Decode hex ASCII characters on stdin to binary on stdout
-* [hd.c](hd.c): Hex dump using unique glyphs for all octets (instead of ".")
-* [pyesc.c](pyesc.c): Escape stdin in the way Python represents strings
-* [bubblebabble.c](bubblebabble.c): A bubblebabble digest in C
+
+These have been folded into the
+[fluffy project](https://github.com/dirtbags/fluffy).
+
+To get them all and build them:
+
+	git clone https://github.com/dirtbags/fluffy
+	cd fluffy
+	make
+
 
 Other Useful Junk
 -----------------
-* [py-pcap](/py-pcap.html): Python PCAP file library
+* [py-pcap](https://github.com/dirtbags/py-pcap): Python PCAP file library
+* [go-pcap](https://github.com/dirtbags/go-pcap): Golang PCAP file library
 * [zar](zar): Python Archiver, to get around SMTP filtering
 * [zdec](zdec): Base64/Hex/whatever decoder/encoder
 * [zpex](zpex): Extract Windows PE files from anything
