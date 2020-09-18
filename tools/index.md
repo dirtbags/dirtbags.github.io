@@ -23,6 +23,4 @@ Other Useful Junk
 -----------------
 * [py-pcap](https://github.com/dirtbags/py-pcap): Python PCAP file library
 * [go-pcap](https://github.com/dirtbags/go-pcap): Golang PCAP file library
-* [zar](zar): Python Archiver, to get around SMTP filtering
-* [zdec](zdec): Base64/Hex/whatever decoder/encoder
-* [zpex](zpex): Extract Windows PE files from anything
+* [zar](zar.py): Python Archiver, to get around SMTP filtering

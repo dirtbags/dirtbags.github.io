@@ -20,7 +20,8 @@ Major Projects
 
 * [PcapDB](https://github.com/dirtbags/pcapdb/): A Distributed, Search-Optimized Full Packet Capture System
 * [fluffy suite](/fluffy/): Network Archaeology tools
-* [Dirtbags Tanks](/tanks/): program tanks in Forf, a PostScript derivative
+* [other tools](/tools/): Various and sundry incident investigation tools
+* [Dirtbags Tanks](/tanks/): Game with tanks programmed in Forf, a PostScript derivative
 * [Projects on Github](https://github.com/dirtbags)
 
 Training/Contest
