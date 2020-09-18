@@ -24,3 +24,4 @@ Other Useful Junk
 * [py-pcap](https://github.com/dirtbags/py-pcap): Python PCAP file library
 * [go-pcap](https://github.com/dirtbags/go-pcap): Golang PCAP file library
 * [zar](zar.py): Python Archiver, to get around SMTP filtering
+* [xar](xar.pl): zar's Perl cousin
