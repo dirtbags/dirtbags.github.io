@@ -11,7 +11,7 @@ title: Home
 The Dirtbags are a group of computer security professionals.  We provide
 [software](https://github.com/dirtbags)
 and run
-[training/contests](/ctf/),
+[training/contests](/contest/),
 focused primarily
 on forensic incident response.
 
