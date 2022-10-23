@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Python for Bouncy Kids</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/dirtbags.github.io/assets/css/dirtbags.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="https://dirtbags.github.io/assets/images/icon.png">
+    <script src="skulpt.min.js"></script> 
+    <script src="skulpt-stdlib.js"></script> 
+    <script src="ace.js"></script>
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <div id="program">
+      <h1>Program</h1>
+      <pre id="editor">import turtle
+
+G = 9.81 # m/s^2
+friction = 0.04
+
+def move(ball):
+    x, y = ball.position()
+    dx, dy = ball.velocity
+    
+    dy = dy - G
+    x = x + dx
+    y = y + dy
+    
+    if not (-200 &lt; x &lt; 200):
+        dx = -dx
+        x = x + dx
+    if not (-200 &lt; y &lt; 200):
+        dy = -dy
+        y = y + dy
+    
+    dx = dx * (1-friction)
+    dy = dy * (1-friction)
+        
+    ball.velocity = (dx, dy)
+    ball.setposition(x, y)
+
+
+ball1 = turtle.Turtle()
+ball1.speed(5)
+ball1.shape("circle")
+ball1.color("red")
+ball1.penup()
+ball1.velocity = (20, 50)
+
+for i in range(500):
+    move(ball1)
+</pre>
+      <br>
+      <button type="button" onclick="runit()">Run</button> 
+    </div>
+
+    <div id="output">
+      <h1>Output</h1>
+      <div id="turtlepen"></div>
+      <pre id="stdout"></pre> 
+    </div>
+
+  </body>
+</html>
